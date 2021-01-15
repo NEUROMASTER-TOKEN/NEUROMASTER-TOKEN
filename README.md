@@ -20,7 +20,7 @@ As long as the transaction fees are covered by the Faucet/token owner, you can c
 # HOW TO CLAIM?
 
 Get a compatible wallet
-Currently you will need to use the only compatible wallet, which is https://waves.exchange.
+You will only need this compatible wallet to claim immediately https://waves.exchange.
 - Click Button "Get started"
 - Set a secure password
 - Agree to their Privacy Policy and Terms and Conditions
@@ -31,6 +31,7 @@ Currently you will need to use the only compatible wallet, which is https://wave
 - Click Button "Continue"
 - Click on your profile on the top right
 - Copy your address, which is the long string on the second row
+>>> e.g. 3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 
 https://waves.exchange
 
