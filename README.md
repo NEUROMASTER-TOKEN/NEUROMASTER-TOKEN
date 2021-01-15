@@ -71,7 +71,7 @@ To get staking rewards, you will need to send your tokens
 to the following address (Send min. 2 in one transaction) Do not send exactly 600 or 
 it will upgrade your Faucet Multiplier :
 
-Must be this waves wallet address = 3P8udu4KVEAw2Dd1Snif8VVcLSKoji15JTU
+Must use this waves wallet address = 3P8udu4KVEAw2Dd1Snif8VVcLSKoji15JTU
 
 5 Confirmations needed till balance shows up or withdrawal (5-15 Minutes)
 Current Staking Balance: 2443.109404100 Gatherer
