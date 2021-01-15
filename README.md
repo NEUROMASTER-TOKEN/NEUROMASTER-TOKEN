@@ -121,5 +121,5 @@ NXR 7982% ^ as of 15/01/21
 
 
 # Donations 
-Much Appreciated Waves Wallet # 3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
+Much Appreciated Waves Wallet # | 3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 
