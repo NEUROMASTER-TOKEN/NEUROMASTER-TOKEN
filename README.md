@@ -100,6 +100,7 @@ FREE [NXR] TOKEN FAUCET - >
 IsoChronic # Technology NEURO BIOHACKING 
 #HALO Advanced  Neuro Direct Theraputic Sound Technology IOS % ANDROID
 
+- Coming soon #MATRIX Self Hosted Zero Log Signaling Uniteruptables neuroz
 
 ****
 
