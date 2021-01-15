@@ -97,6 +97,25 @@ FREE [NXR] TOKEN FAUCET - >
 
 * #Turtle # https://github.com/turtlecoin 
 
+* https://h2ox.io/ NEUROMASTER Waves Token Exchange
+
+Lease to the H2OX.io Waves node!
+We share 100% of all collected fees!
+Your account balance generates too.
+(Auto-)Convert tokens to the ones you like. soon
+Payout after every block directly into your account balance.
+
+Pay for goods and services with Waves
+Use your H2OX account as a wallet!
+Transfer coins to H2OX members for free and
+to external wallet addresses for the standard network fee.
+
+Trade Waves and Waves Tokens
+The exchange is currently being developed
+but you can use the platform to create faucets
+and airdrops for your favorite tokens.
+***
+Future Developments
 IsoChronic # Technology NEURO BIOHACKING 
 #HALO Advanced  Neuro Direct Theraputic Sound Technology IOS % ANDROID
 
