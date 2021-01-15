@@ -107,4 +107,4 @@ CLAIM WAVES FAUCET PARTNER - https://btcmaker.io/?ref=WavesClaim
 
 WORKING EASY FAUCET - COLLECT WAVES FREE <> https://wavesclaim.com/faucets/waves
 
-7982% ^ as of 15/01/21
+NXR 7982% ^ as of 15/01/21
