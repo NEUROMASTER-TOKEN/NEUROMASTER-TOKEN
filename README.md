@@ -15,7 +15,7 @@ https://github.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/blob/main/LICENSE
 
 
 
-Universal Digital Token System Information and documentation will be availablw online in early 2021
+- Universal Digital Token System Information and documentation will be availablw online in early 2021
 
 We provide an easy experience to claim NEUROMASTER. No personal data is saved. NEUROMASTER 
 Tech will ensure ultimate privacy and zero sensitive data stored online. 
@@ -64,8 +64,8 @@ Staking Rewards change depending on your Staking Balance.
 100006+ Gatherer - 2.0% Staking Daily
 Payout: Midnight CEST +0200 UTC
 
-You will get atleast +1% or more 
-(depending on your balance) DAILY FREE Tokens on your staking balance. 
+* You will get atleast +1% or more 
+* (depending on your balance) DAILY FREE Tokens on your staking balance. 
 
 To get staking rewards, you will need to send your tokens 
 to the following address (Send min. 2 in one transaction) Do not send exactly 600 or 
@@ -74,7 +74,6 @@ it will upgrade your Faucet Multiplier :
 Must be this waves wallet address = 3P8udu4KVEAw2Dd1Snif8VVcLSKoji15JTU
 
 5 Confirmations needed till balance shows up or withdrawal (5-15 Minutes)
-
 Current Staking Balance: 2443.109404100 Gatherer
 
 
@@ -84,9 +83,9 @@ Current Staking Balance: 2443.109404100 Gatherer
 # NEUROMASTER Faucet
 Direct pay cryptocurrency faucet
 FREE [NXR] TOKEN FAUCET - >
-https://wavesclaim.com/faucets/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
+* https://wavesclaim.com/faucets/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
 
-https://neuromaster.io Largest known AirDrop
+* https://neuromaster.io Largest known AirDrop
 
 
 ****
