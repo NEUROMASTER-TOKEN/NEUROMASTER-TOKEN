@@ -1,13 +1,14 @@
 #NEUROMASTER TOKEN
 
-NEUROMASTER Faucet
-Direct pay cryptocurrency faucet
 
 NXR Digital Asset ID: 3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
 
 
+We provide an easy experience to claim NEUROMASTER. No personal data is saved. NEUROMASTER 
+Tech will ensure ultimate privacy and zero sensitive data stored online. 
+"Best ethical standards ever" #HASTAG #Loyalty
 
-We provide an easy experience to claim NEUROMASTER. No personal data is saved. 
+
 As long as the transaction fees are covered by the Faucet/token owner, you can claim NEUROMASTER
 
 HOW TO CLAIM?
@@ -46,7 +47,10 @@ Staking Rewards change depending on your Staking Balance.
 10004-100005 Gatherer - 1.8% Staking Daily
 100006+ Gatherer - 2.0% Staking Daily
 Payout: Midnight CEST +0200 UTC
-You will get atleast +1% or more (depending on your balance) DAILY FREE Tokens on your staking balance. To get staking rewards, you will need to send your tokens to the following address (Send min. 2 in one transaction) Do not send exactly 600 or it will upgrade your Faucet Multiplier :
+You will get atleast +1% or more (depending on your balance) DAILY FREE Tokens 
+on your staking balance. To get staking rewards, you will need to send your tokens 
+to the following address (Send min. 2 in one transaction) Do not send exactly 600 or 
+it will upgrade your Faucet Multiplier :
 
 3P8udu4KVEAw2Dd1Snif8VVcLSKoji15JTU
 
@@ -56,7 +60,10 @@ You will get atleast +1% or more (depending on your balance) DAILY FREE Tokens o
 Current Staking Balance: 2443.109404100 Gatherer
 
 
-FREE [NXR] TOKEN FAUCET - https://wavesclaim.com/faucets/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
+NEUROMASTER Faucet
+Direct pay cryptocurrency faucet
+FREE [NXR] TOKEN FAUCET - >
+https://wavesclaim.com/faucets/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
 
 
 https://neuromaster.io
@@ -79,7 +86,8 @@ custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
 Referral System
 Your Referral URL: https://wavesclaim.com/?from=3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 
-If a Referral of yours reaches 25 Claims, you will get 2 WavesClaim Token (Gatherer) directly to your address after you refreshed this page.
+If a Referral of yours reaches 25 Claims, you will get 2 WavesClaim Token 
+(Gatherer) directly to your address after you refreshed this page.
 
 
 CLAIM WAVES FAUCET PARTNER - https://btcmaker.io/?ref=WavesClaim
