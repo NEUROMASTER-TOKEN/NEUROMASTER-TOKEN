@@ -7,8 +7,11 @@ ETH/NEUROMASTER - Swap Coming Soon
 
 
 NXR Digital Asset ID: 3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
+GNU General Public License v3.0 
+https://github.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/blob/main/LICENSE 
 
-Universal Digital Token System Information and documentation will be availablw online in early 2021
+
+Universal Digital Token System Information and documentation will be availablw online in early 20
 
 We provide an easy experience to claim NEUROMASTER. No personal data is saved. NEUROMASTER 
 Tech will ensure ultimate privacy and zero sensitive data stored online. 
