@@ -3,7 +3,7 @@
 NEUROMASTER Faucet
 Direct pay cryptocurrency faucet
 
-NXR Asset ID: 3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
+NXR Digital Asset ID: 3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
 
 
 
