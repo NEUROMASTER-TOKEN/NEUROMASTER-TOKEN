@@ -1,6 +1,6 @@
 # #NEUROMASTER TOKEN ~>
 <<<>>> SUPER HASHTAG AIRDROPS ~Live
-* https://neuromaster.io
+* https://neuromaster.io Direct pay cryptocurrency
 
 
 ETH/NEUROMASTER - Swap Coming Soon
