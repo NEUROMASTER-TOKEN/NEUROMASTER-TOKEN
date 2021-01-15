@@ -76,16 +76,20 @@ Direct pay cryptocurrency faucet
 FREE [NXR] TOKEN FAUCET - >
 https://wavesclaim.com/faucets/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
 
-****
-
 https://neuromaster.io Largest known AirDrop
+
+
+****
 
 
 # These are supported funding model platforms
 
 github: # Waves https://github.com/wavesplatform 
+
 #Turtle # https://github.com/turtlecoin 
-IsoChronic # Technology NEURO BIOHACKING #HALO IOS % ANDROID
+
+IsoChronic # Technology NEURO BIOHACKING 
+#HALO Advanced  Neuro Direct Theraputic Sound Technology IOS % ANDROID
 
 
 ****
