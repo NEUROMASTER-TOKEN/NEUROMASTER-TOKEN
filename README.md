@@ -83,11 +83,13 @@ https://neuromaster.io Largest known AirDrop
 
 # These are supported funding model platforms
 
-github: # Waves https://github.com/wavesplatform
-#Turtle # https://github.com/turtlecoin
+github: # Waves https://github.com/wavesplatform 
+#Turtle # https://github.com/turtlecoin 
 IsoChronic # Technology NEURO BIOHACKING #HALO IOS % ANDROID
 
+
 ****
+
 
 Referral System
 Your Referral URL: https://wavesclaim.com/?from=3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
