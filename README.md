@@ -1,4 +1,4 @@
-#NEUROMASTER TOKEN <<<>>> HUGE AIRDROPS https://neuromaster.io
+# #NEUROMASTER TOKEN <<<>>> HUGE AIRDROPS https://neuromaster.io
 
 
 ETH/NEUROMASTER - Swap Coming Soon
@@ -6,6 +6,7 @@ ETH/NEUROMASTER - Swap Coming Soon
 
 NXR Digital Asset ID: 3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
 
+Universal Digital Token System Information and documentation will be availablw online in early 2021
 
 We provide an easy experience to claim NEUROMASTER. No personal data is saved. NEUROMASTER 
 Tech will ensure ultimate privacy and zero sensitive data stored online. 
@@ -14,7 +15,7 @@ Tech will ensure ultimate privacy and zero sensitive data stored online.
 
 As long as the transaction fees are covered by the Faucet/token owner, you can claim NEUROMASTER
 
-HOW TO CLAIM?
+# HOW TO CLAIM?
 
 Get a compatible wallet
 Currently you will need to use the only compatible wallet, which is https://waves.exchange.
@@ -40,7 +41,7 @@ You can claim multiple tokens on the Faucets page.
 
 ****
 
-PROFIT STAKING ~17%
+# PROFIT STAKING ~17%
 
 EASY NEUROMASTER STAKING Using Gatherer (Quick and Simple Method)
 
@@ -60,8 +61,7 @@ To get staking rewards, you will need to send your tokens
 to the following address (Send min. 2 in one transaction) Do not send exactly 600 or 
 it will upgrade your Faucet Multiplier :
 
-
-3P8udu4KVEAw2Dd1Snif8VVcLSKoji15JTU
+Must be this waves wallet address = 3P8udu4KVEAw2Dd1Snif8VVcLSKoji15JTU
 
 5 Confirmations needed till balance shows up or withdrawal (5-15 Minutes)
 
@@ -71,7 +71,7 @@ Current Staking Balance: 2443.109404100 Gatherer
 ****
 
 
-NEUROMASTER Faucet
+# NEUROMASTER Faucet
 Direct pay cryptocurrency faucet
 FREE [NXR] TOKEN FAUCET - >
 https://wavesclaim.com/faucets/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
@@ -95,7 +95,8 @@ IsoChronic # Technology NEURO BIOHACKING
 ****
 
 
-Referral System
+# Referral System
+
 Your Referral URL: https://wavesclaim.com/?from=3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 
 If a Referral of yours reaches 25 Claims, you will get 2 WavesClaim Token 
@@ -107,3 +108,5 @@ CLAIM WAVES FAUCET PARTNER - https://btcmaker.io/?ref=WavesClaim
 WORKING EASY FAUCET - COLLECT WAVES FREE <> https://wavesclaim.com/faucets/waves
 
 NXR 7982% ^ as of 15/01/21
+
+
