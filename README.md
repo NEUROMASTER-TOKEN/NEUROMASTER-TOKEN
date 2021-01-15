@@ -120,5 +120,5 @@ WORKING EASY FAUCET - COLLECT WAVES FREE <> https://wavesclaim.com/faucets/waves
 
 
 # Donations 
-Much Appreciated Waves Wallet # | 3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
+Greatly Appreciated - Waves Wallet Address  # | 3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 
