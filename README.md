@@ -6,14 +6,13 @@
 ETH/NEUROMASTER - Swap Coming Soon
 
 
-NXR Digital Asset ID: 3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
+NXR Digital Asset ID: 3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo - GNU General Public License v3.0 
 
+# Neutrino technology driving NXR Neutrino Protocol
 
-GNU General Public License v3.0 
+- https://neutrino.at/ Plug and play for algorithmic finance
 
-https://github.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/blob/main/LICENSE 
-
-
+Neutrino is an algorithmic price-stable cryptocurrency protocol that allows for the creation of stable coins tied to a specific real world asset, such as national currency or commodity, and collateralized by a native token. The first synthetic asset created with Neutrino Protocol is USD Neutrino (USDN). Neutrino is currently in public beta.
 
 - Universal Digital Token System Information and documentation will be available online in early 2021
 
@@ -91,12 +90,6 @@ FREE [NXR] TOKEN FAUCET - > 0 Funds in wallet check back on the 20/01/2021
 
 ****
 
-# Neutrino technology driving NXR Neutrino Protocol
-
-- https://neutrino.at/ Plug and play for algorithmic finance
-
-Neutrino is an algorithmic price-stable cryptocurrency protocol that allows for the creation of stable coins tied to a specific real world asset, such as national currency or commodity, and collateralized by a native token. The first synthetic asset created with Neutrino Protocol is USD Neutrino (USDN). Neutrino is currently in public beta.
-
 
 # These are supported funding model platforms
 
@@ -153,6 +146,8 @@ WORKING EASY FAUCET - COLLECT WAVES FREE <> https://wavesclaim.com/faucets/waves
 Greatly Appreciated - Waves Wallet Address  # | 3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 
 ****
+
+- https://github.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/blob/main/LICENSE 
 
 NEUROMASTER-TOKEN licensed under the GNU General Public License v3.0
 
