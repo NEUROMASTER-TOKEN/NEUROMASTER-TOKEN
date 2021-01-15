@@ -79,7 +79,7 @@ Current Staking Balance: 2443.109404100 Gatherer
 
 ****
 
-
+Claim Free Digital Asset Directly
 # NEUROMASTER Faucet
 Direct pay cryptocurrency faucet
 FREE [NXR] TOKEN FAUCET - > 0 Funds in wallet check back on the 20/01/2021 
