@@ -26,7 +26,7 @@ Currently you will need to use the only compatible wallet, which is waves.exchan
 - Click on your profile on the top right
 - Copy your address, which is the long string on the second row
 
-https:waves.exchange
+https://waves.exchange
 
 Get tokens here
 You can claim multiple tokens on the Faucets page.
