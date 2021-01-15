@@ -82,7 +82,8 @@ Current Staking Balance: 2443.109404100 Gatherer
 
 # NEUROMASTER Faucet
 Direct pay cryptocurrency faucet
-FREE [NXR] TOKEN FAUCET - >
+FREE [NXR] TOKEN FAUCET - > 0 Funds in wallet check back on the 20/01/2021 
+
 * https://wavesclaim.com/faucets/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
 
 * https://neuromaster.io Largest known AirDrop
