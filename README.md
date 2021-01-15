@@ -1,6 +1,6 @@
 # #NEUROMASTER TOKEN ~>
 <<<>>> SUPER HASHTAG AIRDROPS ~Live
-* https://neuromaster.io Direct Pay Cryptocurrency
+* http://neuromaster.io Direct Pay Cryptocurrency
 
 
 ETH/NEUROMASTER - Swap Coming Soon
@@ -86,7 +86,7 @@ FREE [NXR] TOKEN FAUCET - > 0 Funds in wallet check back on the 20/01/2021
 
 * https://wavesclaim.com/faucets/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
 
-* https://neuromaster.io Largest known AirDrop
+* http://neuromaster.io Largest known AirDrop
 
 
 ****
