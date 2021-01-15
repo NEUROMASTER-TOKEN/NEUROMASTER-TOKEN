@@ -61,14 +61,17 @@ it will upgrade your Faucet Multiplier :
 
 Current Staking Balance: 2443.109404100 Gatherer
 
+****
 
 NEUROMASTER Faucet
 Direct pay cryptocurrency faucet
 FREE [NXR] TOKEN FAUCET - >
 https://wavesclaim.com/faucets/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
 
+****
 
 https://neuromaster.io Largest known AirDrop
+
 
 # These are supported funding model platforms
 
