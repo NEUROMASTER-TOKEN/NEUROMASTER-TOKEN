@@ -106,3 +106,5 @@ If a Referral of yours reaches 25 Claims, you will get 2 WavesClaim Token
 CLAIM WAVES FAUCET PARTNER - https://btcmaker.io/?ref=WavesClaim
 
 WORKING EASY FAUCET - COLLECT WAVES FREE <> https://wavesclaim.com/faucets/waves
+
+7982% ^ as of 15/01/21
