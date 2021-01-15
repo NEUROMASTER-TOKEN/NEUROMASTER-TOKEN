@@ -97,7 +97,7 @@ FREE [NXR] TOKEN FAUCET - >
 
 * #Turtle # https://github.com/turtlecoin 
 
-* https://h2ox.io/ NEUROMASTER Waves Token Exchange
+* H2OX https://h2ox.io/ NEUROMASTER Waves Token Exchange
 
 Lease to the H2OX.io Waves node!
 We share 100% of all collected fees!
