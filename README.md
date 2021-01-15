@@ -19,7 +19,7 @@ https://github.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/blob/main/LICENSE
 
 We provide an easy experience to claim NEUROMASTER. No personal data is saved. NEUROMASTER 
 Tech will ensure ultimate privacy and zero sensitive data stored online. 
-"Best ethical standards ever" #HASTAG #Loyalty
+"Best ethical standards ever" #HASTAG #Loyalty #ThePeople
 
 
 As long as the transaction fees are covered by the Faucet/token owner, you can claim NEUROMASTER
