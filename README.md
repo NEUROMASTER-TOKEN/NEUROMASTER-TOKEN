@@ -42,7 +42,7 @@ e.g. 3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 
 https://waves.exchange
 
-Get tokens here
+Next. Get tokens here
 You can claim multiple tokens on the Faucets page.
 - Paste your address in the "Wallet Address" text box
 - Fill the captcha
