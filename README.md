@@ -68,7 +68,7 @@ FREE [NXR] TOKEN FAUCET - >
 https://wavesclaim.com/faucets/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
 
 
-https://neuromaster.io
+https://neuromaster.io Largest known AirDrop
 
 # These are supported funding model platforms
 
