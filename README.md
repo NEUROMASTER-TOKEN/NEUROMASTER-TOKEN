@@ -94,9 +94,9 @@ https://neuromaster.io Largest known AirDrop
 
 # These are supported funding model platforms
 
-github: # Waves https://github.com/wavesplatform 
+* github: # Waves https://github.com/wavesplatform 
 
-#Turtle # https://github.com/turtlecoin 
+* #Turtle # https://github.com/turtlecoin 
 
 IsoChronic # Technology NEURO BIOHACKING 
 #HALO Advanced  Neuro Direct Theraputic Sound Technology IOS % ANDROID
@@ -117,7 +117,7 @@ CLAIM WAVES FAUCET PARTNER - https://btcmaker.io/?ref=WavesClaim
 
 WORKING EASY FAUCET - COLLECT WAVES FREE <> https://wavesclaim.com/faucets/waves
 
-NXR 7982% ^ as of 15/01/21
+* NXR 7982% ^ as of 15/01/21
 
 
 # Donations 
