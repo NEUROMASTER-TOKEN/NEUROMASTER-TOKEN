@@ -99,6 +99,8 @@ FREE [NXR] TOKEN FAUCET - >
 
 * H2OX https://h2ox.io/ NEUROMASTER Waves Token Exchange
 
+1594 Tokens — 6 Gateways — 10 Tradable Tokens — 18324 Members
+
 Lease to the H2OX.io Waves node!
 We share 100% of all collected fees!
 Your account balance generates too.
