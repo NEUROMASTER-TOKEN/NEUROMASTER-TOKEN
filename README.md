@@ -38,7 +38,7 @@ You will only need this compatible wallet to claim immediately https://waves.exc
 - Click Button "Continue"
 - Click on your profile on the top right
 - Copy your address, which is the long string on the second row
->>> e.g. 3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
+e.g. 3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 
 https://waves.exchange
 
