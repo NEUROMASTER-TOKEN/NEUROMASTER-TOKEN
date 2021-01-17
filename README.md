@@ -1,4 +1,4 @@
-# #NEUROMASTER TOKEN ~>
+# NEUROMASTER TOKEN  ~>
 SUPER HASHTAG AIRDROPS ~Live Now 2000 Per User - Currently 806 Members
 * http://neuromaster.io Direct Pay Cryptocurrency
 
