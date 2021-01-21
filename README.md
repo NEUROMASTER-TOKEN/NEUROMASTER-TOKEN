@@ -134,6 +134,8 @@ Your Referral URL: https://wavesclaim.com/?from=3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfW
 If a Referral of yours reaches 25 Claims, you will get 2 WavesClaim Token 
 (Gatherer) directly to your address after you refreshed this page.
 
+Wavesclaim Widget Ticker https://wavesclaim.com/api/build_wavesclaim_widget.php?assetId=3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo&WAVESCLAIM=1#close
+
 
 - CLAIM WAVES FAUCET PARTNER - https://btcmaker.io/?ref=WavesClaim
 
