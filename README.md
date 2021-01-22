@@ -57,7 +57,11 @@ Register Original Multimedia Files (EnCaSe) File Encryption
 
 - eNeuro Sounds BioHacking Development [IsoChronic] Technology Only on #AUDIUS Music protected by the Blockchain.
 
-#CryptoMusic Demo Sound File #NEUROMASTER © 2021 o! 🎶
+#CryptoMusic Demo Sound File #NEUROMASTER © 2021 o! 🎶 
+
+[WARNING]
+May Cause Overwhelming Feelings
+of Great pleasure and Happiness.
 
 - Improve your long term memory.
 
