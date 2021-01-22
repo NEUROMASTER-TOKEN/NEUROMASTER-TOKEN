@@ -235,7 +235,7 @@ https://w8io.ru/3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH/f/7foKYxRo6UW1NqBhjrrHXRQ1Gx
 
 - Harnessing NEURO [wave] energy
 
-We are very excited about further funding, data mining, and awareness can bring to health industries working with Cistic Fibrosis Patients
+We are very excited about helping health industries working with Cistic Fibrosis Patients
 
 
 5% of NXT TX Totals will be donated to the Cistic Fibrosis Foundation Australia. https://www.cysticfibrosis.org.au/ 
