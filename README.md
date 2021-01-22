@@ -71,6 +71,8 @@ Long Term Memory https://audius.co/neuromaster/neuromaster-ltm-isochronic-isolat
 
 Euphoria https://audius.co/neuromaster/neuromaster-isochronic-ephoric-free-biohack-225543
 
+Extra Demo Branding https://audius.co/neuromaster/neuromaster-super-hashtags-ai-speaks-229806
+
 ***
 
 Free NXR Tokens https://wavesclaim.com/faucets/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
