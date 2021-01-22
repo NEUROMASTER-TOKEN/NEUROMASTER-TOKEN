@@ -222,7 +222,7 @@ Permissions of this strong copyleft license are conditioned on making available 
 Youtube Waves Token Corporate Video https://youtu.be/3pjMueirxGU 
 
 
-NEUROMASTER® Token
+NEUROMASTER® Token [NXR]
 
 
 ***
