@@ -274,3 +274,10 @@ We are very excited about helping health industries working with Cystic Fibrosis
 
 - 500000 NXR Tokens will be donated to the Cystic Fibrosis Foundation once Market cap reaches 1.12 Million $USD
 
+- The 65 Roses Story
+The “65 Roses” story dates back to 1965 when an observant 4-year-old, hearing the name of his disease for the 
+first time, pronounced cystic fibrosis as "65 Roses." Today, “65 Roses” is a term often used by young children 
+with cystic fibrosis to pronounce the name of their disease.
+
+
+
