@@ -53,7 +53,7 @@ Register Original Multimedia Files (EnCaSe) File Encryption
 
 ***
 
-IsoChronic Music Mix APP IOS/ANDROID/DESKTOP
+# IsoChronic Music Mix APP IOS/ANDROID/DESKTOP
 
 - eNeuro Sounds BioHacking Development [IsoChronic] Technology Only on #AUDIUS Music protected by the Blockchain.
 
