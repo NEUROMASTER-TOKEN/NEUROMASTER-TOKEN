@@ -28,21 +28,6 @@ Link to official 150px x 150px Token Asset Branding NXR.
 https://raw.githubusercontent.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/main/nxr-token-neuromaster-150x150.jpeg
 
 
-# Neutrino/Waves driving NXR 
-
-- https://neutrino.at/ Plug and play for algorithmic finance
-
-Neutrino is an algorithmic price-stable cryptocurrency protocol that allows for the creation of stable coins tied to a specific real world asset, such as national currency or commodity, and collateralized by a native token. The first synthetic asset created with Neutrino Protocol is USD Neutrino (USDN). Neutrino is currently in public beta.
-
-- Universal Digital Token System Information and documentation will be available online in early 2021
-
-We provide an easy experience to claim NEUROMASTER. No personal data is saved. NEUROMASTER 
-Tech will ensure ultimate privacy and zero sensitive data stored online. 
-"Best ethical standards ever" #HASTAG #Loyalty #ThePeople
-
-
-As long as the transaction fees are covered by the Faucet/token owner, you can claim NEUROMASTER
-
 # HOW TO CLAIM? NXR TOKENS
 
 Get a compatible wallet
@@ -152,6 +137,23 @@ Safe Private Social Sharing Tokens - Make Digital Money without changing anythin
 - Coming soon #MATRIX Self Hosted [Zero Log] Signaling Uniteruptables neuroz
 
 ****
+
+# Neutrino/Waves driving NXR 
+
+- https://neutrino.at/ Plug and play for algorithmic finance
+
+Neutrino is an algorithmic price-stable cryptocurrency protocol that allows for the creation of stable coins tied to a specific real world asset, such as national currency or commodity, and collateralized by a native token. The first synthetic asset created with Neutrino Protocol is USD Neutrino (USDN). Neutrino is currently in public beta.
+
+- Universal Digital Token System Information and documentation will be available online in early 2021
+
+We provide an easy experience to claim NEUROMASTER. No personal data is saved. NEUROMASTER 
+Tech will ensure ultimate privacy and zero sensitive data stored online. 
+"Best ethical standards ever" #HASTAG #Loyalty #ThePeople
+
+
+As long as the transaction fees are covered by the Faucet/token owner, you can claim NEUROMASTER
+
+***
 
 # Referral System
 
