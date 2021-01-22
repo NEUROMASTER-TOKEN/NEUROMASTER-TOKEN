@@ -1,4 +1,7 @@
 # NEUROMASTER TOKEN  ~>
+
+# HOW TO CLAIM? NXR TOKENS
+
 SUPER HASHTAG AIRDROPS ~Live Now 200 Per User - Currently 1128 Members
 * http://neuromaster.io 
 
@@ -28,7 +31,7 @@ Link to official 150px x 150px Token Asset Branding NXR.
 https://raw.githubusercontent.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/main/nxr-token-neuromaster-150x150.jpeg
 
 
-# HOW TO CLAIM? NXR TOKENS
+# Buy, Trade or Stake NXR (NEUROMASTER) Tokens 
 
 Get a compatible wallet
 You will only need this compatible wallet to claim immediately https://waves.exchange.
