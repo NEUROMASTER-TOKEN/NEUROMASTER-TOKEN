@@ -249,5 +249,5 @@ We are very excited about helping health industries working with Cistic Fibrosis
 
 Automation and Auditing will commence around July 2021 all [NXR] totals will be back dated to Dec 14 2020
 
-- 500000 NXR Tokens will be donated to the Cistic Fibrosis Foundation once Market cap reaches 1.2 Million USD
+- 500000 NXR Tokens will be donated to the Cistic Fibrosis Foundation once Market cap reaches 1.12 Million USD
 
