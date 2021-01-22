@@ -1,4 +1,4 @@
-# NEUROMASTER TOKEN  ~>
+# NEUROMASTER® TOKEN  ~>
 
 Blockchain payments Safe, Secure, No 3rd Party and no extra fees.
 
