@@ -4,6 +4,8 @@ Harnessing NEURO [wave] Energy ❤️
 
 Blockchain payments Safe, Secure, No 3rd Party, No extra fees.
 
+NEUROMASTER® is a registered trademark 
+
 # HOW TO CLAIM? [NXR] TOKENS
 
 SUPER HASHTAG AIRDROPS ~Live Now 200 Per User - Currently 1128 Members. Airdrop will close in March 2021
