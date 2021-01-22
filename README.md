@@ -14,7 +14,32 @@ SUPER HASHTAG AIRDROPS ~Live Now 200 Per User - Currently 1128 Members
 - Fast global payments
 Send and receive blockchain payments to NEUROMASTER/WAVES in minutes across the globe.
 
-Text Contract Agreements
+***
+
+The Waves/NEUROMASTER protocol’s smart contracts enable changing the default behaviour of accounts and assets. Using NEUROMASTER smart contracts on Waves, you can also create a dApp — an application that is stored and executed on the blockchain network.
+
+Leased Proof of Stake (LPoS) is an enhanced proof of stake consensus algorithm that allows you to lease your NEUROMASTER tokens to a Waves node, earning a percentage of the node payout, as a reward.
+
+NEUROMASTER/Waves security is guaranteed by time-proven Proof-of-Stake consensus with more than 300 nodes all over the world. Ride language is built on a tech stack designed to avoid programming mistakes potentially leading to serious errors. Interaction with blockchain-enabled applications is seamless and safe.
+
+DApps for storing and managing your crypto assets. Independent products built on Waves and driven by the community
+
+The major problem that oracles solve is that blockchains can only access data stored within the blockchain. Oracles provide connection with real-world data. Developers can explore existing oracles or build your own. Gravity, a decentralized cross-chain and oracle network powered by Waves, designed to set the data transfer form outside world and different blockchains.
+
+Ride is Waves/NEUROMASTER’ functional purpose-designed smart contract language for dApp development, designed for applying scripts to assets and accounts on the Waves blockchain, as well as for creating sophisticated programmable logic for a decentralized environment.
+
+Neutrino.protocol enables the tokenization of national currencies or commodities by algorithmically maintaining the economic stability of the synthetic asset rate.
+
+USDN staking functionality
+An estimated annual yield can range from 8% to 15%, depending on market conditions and the exchange rate of WAVES.
+
+NSBT/NEUROMASTER Utility token for the Neutrino system designed to ensure the stability of reserves on the Neutrino smart contract.
+
+Interchain DeFi via Gravity (coming Very soon) 
+
+***
+
+Text Contract Agreements using #MATRIX Crypto Development
 
 Register Original Multimedia Files (EnCaSe) File Encryption
 
