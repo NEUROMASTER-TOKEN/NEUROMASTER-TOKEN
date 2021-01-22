@@ -22,9 +22,9 @@ Health industry Contracted Funding Tools [eg Cystic Fibrosis Developments] 65Ros
 
 ***
 
-The Waves/NEUROMASTER protocol’s smart contracts enable changing the default behaviour of accounts and assets. Using NEUROMASTER smart contracts on Waves, you can also create a dApp — an application that is stored and executed on the blockchain network.
+The Waves/NEUROMASTER protocol’s smart contracts enable changing the default behaviour of accounts and assets. Using NEUROMASTER® smart contracts on Waves, you can also create a dApp — an application that is stored and executed on the blockchain network.
 
-Leased Proof of Stake (LPoS) is an enhanced proof of stake consensus algorithm that allows you to lease your NEUROMASTER tokens to a Waves node, earning a percentage of the node payout, as a reward.
+Leased Proof of Stake (LPoS) is an enhanced proof of stake consensus algorithm that allows you to lease your NEUROMASTER® tokens to a Waves node, earning a percentage of the node payout, as a reward.
 
 NEUROMASTER/Waves security is guaranteed by time-proven Proof-of-Stake consensus with more than 300 nodes all over the world. Ride language is built on a tech stack designed to avoid programming mistakes potentially leading to serious errors. Interaction with blockchain-enabled applications is seamless and safe.
 
@@ -96,7 +96,7 @@ You can claim multiple tokens on the Faucets page.
 
 # PROFIT STAKING ~17%
 
-EASY NEUROMASTER STAKING Using Gatherer (Quick and Simple Method)
+EASY NEUROMASTER® STAKING Using Gatherer (Quick and Simple Method)
 
 GST Staking Functionality is now live! You get 0.01% extra for every GST held!
 Staking Rewards change depending on your Staking Balance.
@@ -123,7 +123,7 @@ Current Staking Balance: 2443.109404100 Gatherer
 ****
 
 Claim Free Digital Asset Directly
-# NEUROMASTER Faucet
+# NEUROMASTER® Faucet
 Direct pay cryptocurrency faucet
 https://t.me/neuromastertokens
 
@@ -185,16 +185,16 @@ Neutrino is an algorithmic price-stable cryptocurrency protocol that allows for 
 
 - Universal Digital Token System Information and documentation will be available online in early 2021
 
-We provide an easy experience to claim NEUROMASTER. No personal data is saved. NEUROMASTER 
+We provide an easy experience to claim NEUROMASTER. No personal data is saved. NEUROMASTER®
 Tech will ensure ultimate privacy and zero sensitive data stored online. 
 "Best ethical standards ever" #HASTAG #Loyalty #ThePeople
 
 
-As long as the transaction fees are covered by the Faucet/token owner, you can claim NEUROMASTER
+As long as the transaction fees are covered by the Faucet/token owner, you can claim NEUROMASTER®
 
 ***
 
-# Referral System
+# NXR Referral System
 
 Your Referral URL: https://wavesclaim.com/?from=3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 
@@ -228,6 +228,7 @@ NEUROMASTER® Token [NXR]
 ***
 
 # CryptoMusic Token Development late 2021 [CRYPTOM] 
+
 https://w8io.ru/3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH/f/7foKYxRo6UW1NqBhjrrHXRQ1Gx1sLrH7JkJowWWwqnHm
 
 
