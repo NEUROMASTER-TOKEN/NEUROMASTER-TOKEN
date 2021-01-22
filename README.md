@@ -242,15 +242,14 @@ Permissions of this strong copyleft license are conditioned on making available 
 
 Youtube Waves Token Corporate Video https://youtu.be/3pjMueirxGU 
 
-
-NEUROMASTER® Token [NXR] Old project soon to be migrated - https://github.com/65roses
-
 ***
 
 # CryptoMusic Token Development late 2021 [CRYPTOM] 
 
 https://w8io.ru/3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH/f/7foKYxRo6UW1NqBhjrrHXRQ1Gx1sLrH7JkJowWWwqnHm
 
+
+- NEUROMASTER® Token [NXR] Old project soon to be migrated - https://github.com/65roses
 
 ***
 # Donations 
