@@ -232,7 +232,7 @@ https://w8io.ru/3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH/f/7foKYxRo6UW1NqBhjrrHXRQ1Gx
 ***
 # Donations 
 
-- Greatly Appreciated - Waves Wallet Address  WAVES/NXR # | 3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
+- Greatly Appreciated - Waves Wallet Address  WAVES [NXR] # | 3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 
 ***
 
