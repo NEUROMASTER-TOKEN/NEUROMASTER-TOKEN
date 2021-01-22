@@ -18,7 +18,7 @@ SUPER HASHTAG AIRDROPS ~Live Now 200 Per User - Currently 1128 Members. Airdrop 
 - Fast global payments
 Send and receive blockchain payments to NEUROMASTER/WAVES in minutes across the globe.
 
-Health industry Contracted Funding Tools [eg Cistic Fibrosis Developments] 65Roses
+Health industry Contracted Funding Tools [eg Cystic Fibrosis Developments] 65Roses
 
 ***
 
