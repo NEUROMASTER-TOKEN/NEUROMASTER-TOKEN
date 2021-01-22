@@ -207,10 +207,6 @@ WORKING EASY FAUCET - COLLECT WAVES FREE <> https://wavesclaim.com/faucets/waves
 
 * NXR Token Voting Event Coming Soon 
 
-
-# Donations 
-Greatly Appreciated - Waves Wallet Address  # | 3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
-
 ****
 
 NEUROMASTER-TOKEN licensed under the GNU General Public License v3.0
@@ -232,7 +228,10 @@ https://w8io.ru/3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH/f/7foKYxRo6UW1NqBhjrrHXRQ1Gx
 
 
 ***
+# Donations 
+Greatly Appreciated - Waves Wallet Address  # | 3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 
+***
 
 # Cistic Fibrosis
 
