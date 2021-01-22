@@ -1,6 +1,6 @@
 # NEUROMASTER® TOKEN  ~>
 
-Blockchain payments Safe, Secure, No 3rd Party and no extra fees.
+Blockchain payments Safe, Secure, No 3rd Party, No extra fees.
 
 # HOW TO CLAIM? [NXR] TOKENS
 
