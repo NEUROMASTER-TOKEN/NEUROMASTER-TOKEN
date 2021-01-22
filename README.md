@@ -51,7 +51,11 @@ Text Contract Agreements using #MATRIX Crypto Development
 
 Register Original Multimedia Files (EnCaSe) File Encryption
 
-NEURO Sounds BioHacking Development
+***
+
+NEURO Sounds BioHacking Development [IsoChronic] Technology Only on #AUDIUS Music protected by the Blockchain.
+
+Long Term Memory Demo Sound File #NEUROMASTER © 2021 https://audius.co/neuromaster/neuromaster-ltm-isochronic-isolated-biohacking-sound-waves-218182
 
 ***
 
