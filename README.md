@@ -246,7 +246,7 @@ We are very excited about helping health industries working with Cystic Fibrosis
 
 - Cystic Fibrosis is a genetic condition affecting one baby born every four days.
 
-5% of [NXR] TX Totals will be donated to the Cistic Fibrosis Foundation Australia. https://www.cysticfibrosis.org.au/ 
+5% of [NXR] TX Totals will be donated to the Cystic Fibrosis Foundation Australia. https://www.cysticfibrosis.org.au/ 
 
 5% of [NXR] TX Totals will be used for further development of the 65Roses Token [65Roses] 
 
