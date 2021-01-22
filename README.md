@@ -1,4 +1,4 @@
-# NEUROMASTER® TOKEN  ~>
+# NEUROMASTER® TOKEN  ~> ❤️
 
 Harnessing NEURO [wave] Energy
 
