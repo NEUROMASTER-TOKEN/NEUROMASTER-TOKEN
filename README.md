@@ -53,11 +53,13 @@ Register Original Multimedia Files (EnCaSe) File Encryption
 
 ***
 
-NEURO Sounds BioHacking Development [IsoChronic] Technology Only on #AUDIUS Music protected by the Blockchain.
+BioHack NEURO Sounds BioHacking Development [IsoChronic] Technology Only on #AUDIUS Music protected by the Blockchain.
 
-- #CryptoMusic Long Term Memory Demo Sound File #NEUROMASTER © 2021 o! 🎶
+#CryptoMusic Demo Sound File #NEUROMASTER © 2021 o! 🎶
 
-https://audius.co/neuromaster/neuromaster-ltm-isochronic-isolated-biohacking-sound-waves-218182
+- Long Term Memory https://audius.co/neuromaster/neuromaster-ltm-isochronic-isolated-biohacking-sound-waves-218182
+
+- Euphoria https://audius.co/neuromaster/neuromaster-isochronic-ephoric-free-biohack-225543
 
 ***
 
