@@ -227,14 +227,14 @@ NEUROMASTER® Token [NXR]
 
 ***
 
-#CryptoMusic Token Development late 2021 [CRYPTOM] 
+# CryptoMusic Token Development late 2021 [CRYPTOM] 
 https://w8io.ru/3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH/f/7foKYxRo6UW1NqBhjrrHXRQ1Gx1sLrH7JkJowWWwqnHm
 
 
 ***
 
 
-#Cistic Fibrosis
+# Cistic Fibrosis
 
 - Harnessing NEURO [wave] energy
 
