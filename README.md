@@ -117,6 +117,8 @@ Blockchain Explorer https://wavesexplorer.com/assets/3nRvcGfvGmjmZZA1zNRB6pZsurc
 
 # These are supported funding model platforms
 
+* Token Faucet Delivery System https://wavesclaim.com/
+
 * github: # Waves https://github.com/wavesplatform 
 
 * #Turtle # https://github.com/turtlecoin 
