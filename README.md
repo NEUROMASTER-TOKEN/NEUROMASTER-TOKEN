@@ -242,7 +242,7 @@ https://w8io.ru/3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH/f/7foKYxRo6UW1NqBhjrrHXRQ1Gx
 
 - Harnessing NEURO [wave] energy
 
-We are very excited about helping health industries working with Cystic Fibrosis Patients.
+We are very excited about helping health industries working with Cystic Fibrosis Patients. ❤️
 
 - Cystic Fibrosis is a genetic condition affecting one baby born every four days.
 
