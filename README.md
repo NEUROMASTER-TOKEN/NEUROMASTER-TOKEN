@@ -29,7 +29,7 @@ Tech will ensure ultimate privacy and zero sensitive data stored online.
 
 As long as the transaction fees are covered by the Faucet/token owner, you can claim NEUROMASTER
 
-# HOW TO CLAIM?
+# HOW TO CLAIM? NXR TOKENS
 
 Get a compatible wallet
 You will only need this compatible wallet to claim immediately https://waves.exchange.
