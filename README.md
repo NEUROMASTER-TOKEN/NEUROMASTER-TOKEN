@@ -8,6 +8,8 @@ SUPER HASHTAG AIRDROPS ~Live Now 200 Per User - Currently 1128 Members
 - Fast global payments
 Send and receive blockchain payments to NEUROMASTER/WAVES in minutes across the globe.
 
+Text Contract Agreements
+
 Register Original Multimedia Files (EnCaSe) File Encryption
 
 NEURO Sounds BioHacking Development
