@@ -238,11 +238,11 @@ https://w8io.ru/3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH/f/7foKYxRo6UW1NqBhjrrHXRQ1Gx
 
 ***
 
-# Cistic Fibrosis
+# Cystic Fibrosis
 
 - Harnessing NEURO [wave] energy
 
-We are very excited about helping health industries working with Cistic Fibrosis Patients.
+We are very excited about helping health industries working with Cystic Fibrosis Patients.
 
 - Cystic Fibrosis is a genetic condition affecting one baby born every four days.
 
@@ -252,5 +252,5 @@ We are very excited about helping health industries working with Cistic Fibrosis
 
 - Automation and Auditing will commence around July 2021 all [NXR] totals will be back dated to Dec 14 2020
 
-- 500000 NXR Tokens will be donated to the Cistic Fibrosis Foundation once Market cap reaches 1.12 Million USD
+- 500000 NXR Tokens will be donated to the Cystic Fibrosis Foundation once Market cap reaches 1.12 Million USD
 
