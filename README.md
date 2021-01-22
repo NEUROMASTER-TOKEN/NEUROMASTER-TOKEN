@@ -7,6 +7,8 @@ Blockchain payments Safe, Secure, No 3rd Party and no extra fees.
 SUPER HASHTAG AIRDROPS ~Live Now 200 Per User - Currently 1128 Members
 * http://neuromaster.io 
 
+- Uninteruptable offchain Domains and Alias Transfers [info release june 2021]
+
 - w8io [NXR] Blochchain Explorer - https://w8io.ru/3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH/f/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
 
 - Direct Pay Cryptocurrency
