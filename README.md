@@ -2,9 +2,9 @@
 
 Blockchain payments Safe, Secure, No 3rd Party and no extra fees.
 
-# HOW TO CLAIM? NXR TOKENS
+# HOW TO CLAIM? [NXR] TOKENS
 
-SUPER HASHTAG AIRDROPS ~Live Now 200 Per User - Currently 1128 Members
+SUPER HASHTAG AIRDROPS ~Live Now 200 Per User - Currently 1128 Members. Airdrop will close in March 2021
 * http://neuromaster.io 
 
 - Uninteruptable offchain Domains and Alias Transfers [info release june 2021]
@@ -15,6 +15,8 @@ SUPER HASHTAG AIRDROPS ~Live Now 200 Per User - Currently 1128 Members
 
 - Fast global payments
 Send and receive blockchain payments to NEUROMASTER/WAVES in minutes across the globe.
+
+Health industry Contracted Funding Tools [eg Cistic Fibrosis Developments] 65Roses
 
 ***
 
@@ -229,7 +231,7 @@ https://w8io.ru/3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH/f/7foKYxRo6UW1NqBhjrrHXRQ1Gx
 
 ***
 # Donations 
-Greatly Appreciated - Waves Wallet Address  WAVES/NXT # | 3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
+Greatly Appreciated - Waves Wallet Address  WAVES/NXR # | 3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 
 ***
 
@@ -239,8 +241,10 @@ Greatly Appreciated - Waves Wallet Address  WAVES/NXT # | 3PKNyXRHnRE1V6MhE2HD4C
 
 We are very excited about helping health industries working with Cistic Fibrosis Patients
 
-5% of [NXT] TX Totals will be donated to the Cistic Fibrosis Foundation Australia. https://www.cysticfibrosis.org.au/ 
+5% of [NXR] TX Totals will be donated to the Cistic Fibrosis Foundation Australia. https://www.cysticfibrosis.org.au/ 
 
-5% of [NXT] TX Totals will be used for further development of the 65Roses Token [65Roses] 
+5% of [NXR] TX Totals will be used for further development of the 65Roses Token [65Roses] 
+
+Automation and Auditing will commence around July 2021 and all [NXR] totals will be back dated to Dec 14 2020 
 
 
