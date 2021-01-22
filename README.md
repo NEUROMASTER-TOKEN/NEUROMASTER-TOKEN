@@ -279,5 +279,10 @@ The “65 Roses” story dates back to 1965 when an observant 4-year-old, hearin
 first time, pronounced cystic fibrosis as "65 Roses." Today, “65 Roses” is a term often used by young children 
 with cystic fibrosis to pronounce the name of their disease.
 
+65 Roses® is a registered trademark of the Cystic Fibrosis Foundation.
+
+***
+
+
 
 
