@@ -1,6 +1,11 @@
 # NEUROMASTER TOKEN  ~>
 SUPER HASHTAG AIRDROPS ~Live Now 200 Per User - Currently 1128 Members
-* http://neuromaster.io Direct Pay Cryptocurrency
+* http://neuromaster.io 
+
+Direct Pay Cryptocurrency
+
+- Fast global payments
+Send and receive blockchain payments to NEUROMASTER/WAVES in minutes across the globe.
 
 Free NXR Tokens https://wavesclaim.com/faucets/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
 
@@ -14,8 +19,6 @@ Link to official 150px x 150px Token Asset Branding NXR.
 
 https://raw.githubusercontent.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/main/nxr-token-neuromaster-150x150.jpeg
 
-- Fast global payments
-Send and receive blockchain payments to NEUROMASTER/WAVES in minutes across the globe.
 
 # Neutrino/Waves driving NXR 
 
