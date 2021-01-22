@@ -239,7 +239,9 @@ Greatly Appreciated - Waves Wallet Address  WAVES/NXR # | 3PKNyXRHnRE1V6MhE2HD4C
 
 - Harnessing NEURO [wave] energy
 
-We are very excited about helping health industries working with Cistic Fibrosis Patients
+We are very excited about helping health industries working with Cistic Fibrosis Patients.
+
+- Cystic Fibrosis is a genetic condition affecting one baby born every four days.
 
 5% of [NXR] TX Totals will be donated to the Cistic Fibrosis Foundation Australia. https://www.cysticfibrosis.org.au/ 
 
