@@ -57,10 +57,10 @@ BioHack NEURO Sounds BioHacking Development [IsoChronic] Technology Only on #AUD
 
 #CryptoMusic Demo Sound File #NEUROMASTER © 2021 o! 🎶
 
-- (Improve your long term memory)
+- Improve your long term memory.
 Long Term Memory https://audius.co/neuromaster/neuromaster-ltm-isochronic-isolated-biohacking-sound-waves-218182
 
-- the experience (or affect) of pleasure or excitement and intense feelings of well-being and happiness. 
+- Experience pleasure or excitement and intense feelings of well-being and happiness. 
 Euphoria https://audius.co/neuromaster/neuromaster-isochronic-ephoric-free-biohack-225543
 
 ***
