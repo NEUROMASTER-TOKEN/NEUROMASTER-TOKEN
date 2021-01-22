@@ -231,7 +231,8 @@ https://w8io.ru/3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH/f/7foKYxRo6UW1NqBhjrrHXRQ1Gx
 
 ***
 # Donations 
-Greatly Appreciated - Waves Wallet Address  WAVES/NXR # | 3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
+
+- Greatly Appreciated - Waves Wallet Address  WAVES/NXR # | 3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 
 ***
 
@@ -247,7 +248,7 @@ We are very excited about helping health industries working with Cistic Fibrosis
 
 5% of [NXR] TX Totals will be used for further development of the 65Roses Token [65Roses] 
 
-Automation and Auditing will commence around July 2021 all [NXR] totals will be back dated to Dec 14 2020
+- Automation and Auditing will commence around July 2021 all [NXR] totals will be back dated to Dec 14 2020
 
 - 500000 NXR Tokens will be donated to the Cistic Fibrosis Foundation once Market cap reaches 1.12 Million USD
 
