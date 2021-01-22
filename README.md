@@ -26,7 +26,9 @@ NEUROMASTER/Waves security is guaranteed by time-proven Proof-of-Stake consensus
 
 DApps for storing and managing your crypto assets. Independent products built on Waves and driven by the community
 
-The major problem that oracles solve is that blockchains can only access data stored within the blockchain. Oracles provide connection with real-world data. Developers can explore existing oracles or build your own. Gravity, a decentralized cross-chain and oracle network powered by Waves, designed to set the data transfer form outside world and different blockchains.
+The major problem that oracles solve is that blockchains can only access data stored within the blockchain. Oracles provide connection with real-world data. Developers can explore existing oracles or build your own. Gravity, a decentralized cross-chain and oracle network powered by Waves.
+
+NEUROMASTER / Waves designed to be easily swapped eg.  Crypto Currency, Fiat and Tokens including different blockchains. >> uniswap 1inch Token swap coming soon
 
 Ride is Waves/NEUROMASTER’ functional purpose-designed smart contract language for dApp development, designed for applying scripts to assets and accounts on the Waves blockchain, as well as for creating sophisticated programmable logic for a decentralized environment.
 
