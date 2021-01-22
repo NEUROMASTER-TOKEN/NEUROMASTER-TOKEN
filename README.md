@@ -247,6 +247,6 @@ We are very excited about helping health industries working with Cistic Fibrosis
 
 5% of [NXR] TX Totals will be used for further development of the 65Roses Token [65Roses] 
 
-Automation and Auditing will commence around July 2021 and all [NXR] totals will be back dated to Dec 14 2020 
+Automation and Auditing will commence around July 2021 all [NXR] totals will be back dated to Dec 14 2020 
 
 
