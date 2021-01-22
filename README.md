@@ -237,7 +237,6 @@ https://w8io.ru/3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH/f/7foKYxRo6UW1NqBhjrrHXRQ1Gx
 
 We are very excited about helping health industries working with Cistic Fibrosis Patients
 
-
 5% of NXT TX Totals will be donated to the Cistic Fibrosis Foundation Australia. https://www.cysticfibrosis.org.au/ 
 5% of NXT TX Totals will be used for further development of the 65Roses Token [65Roses] 
 
