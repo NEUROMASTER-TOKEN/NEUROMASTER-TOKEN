@@ -10,7 +10,8 @@ ETH/NEUROMASTER - Swap Coming Soon
 
 NXR Digital Asset ID: 3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo - GNU General Public License v3.0 
 
-Link to official 150px x 150px Token Asset Branding NXR 
+Link to official 150px x 150px Token Asset Branding NXR.
+
 https://raw.githubusercontent.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/main/nxr-token-neuromaster-150x150.jpeg
 
 # Neutrino/Waves driving NXR 
