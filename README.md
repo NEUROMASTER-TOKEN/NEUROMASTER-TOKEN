@@ -2,6 +2,8 @@
 SUPER HASHTAG AIRDROPS ~Live Now 2000 Per User - Currently 806 Members
 * http://neuromaster.io Direct Pay Cryptocurrency
 
+Free NXR Tokens https://wavesclaim.com/faucets/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
+
 
 ETH/NEUROMASTER - Swap Coming Soon
 
