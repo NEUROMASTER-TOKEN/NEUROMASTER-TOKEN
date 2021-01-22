@@ -14,6 +14,9 @@ Link to official 150px x 150px Token Asset Branding NXR.
 
 https://raw.githubusercontent.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/main/nxr-token-neuromaster-150x150.jpeg
 
+- Fast global payments
+Send and receive blockchain payments to NEUROMASTER/WAVES in minutes across the globe.
+
 # Neutrino/Waves driving NXR 
 
 - https://neutrino.at/ Plug and play for algorithmic finance
