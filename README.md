@@ -53,7 +53,9 @@ Register Original Multimedia Files (EnCaSe) File Encryption
 
 ***
 
-BioHack NEURO Sounds BioHacking Development [IsoChronic] Technology Only on #AUDIUS Music protected by the Blockchain.
+IsoChronic Music Mix APP IOS/ANDROID/DESKTOP
+
+- eNeuro Sounds BioHacking Development [IsoChronic] Technology Only on #AUDIUS Music protected by the Blockchain.
 
 #CryptoMusic Demo Sound File #NEUROMASTER © 2021 o! 🎶
 
