@@ -55,18 +55,21 @@ Register Original Multimedia Files (EnCaSe) File Encryption
 
 NEURO Sounds BioHacking Development [IsoChronic] Technology Only on #AUDIUS Music protected by the Blockchain.
 
-Long Term Memory Demo Sound File #NEUROMASTER © 2021 https://audius.co/neuromaster/neuromaster-ltm-isochronic-isolated-biohacking-sound-waves-218182
+- #CryptoMusic Long Term Memory Demo Sound File #NEUROMASTER © 2021 o! 🎶
+
+https://audius.co/neuromaster/neuromaster-ltm-isochronic-isolated-biohacking-sound-waves-218182
 
 ***
 
 Free NXR Tokens https://wavesclaim.com/faucets/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
 
-ETH/NEUROMASTER - Swap Coming Soon
+- ETH/NEUROMASTER - Swap Coming Soon  
 
+- NXR Digital Asset ID: 3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo - GNU General Public License v3.0
 
-NXR Digital Asset ID: 3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo - GNU General Public License v3.0 
+***
 
-Link to official 150px x 150px Token Asset Branding NXR.
+- Link to official 150px x 150px Token Asset Branding NXR. Pushpin .jpeg
 
 https://raw.githubusercontent.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/main/nxr-token-neuromaster-150x150.jpeg
 
