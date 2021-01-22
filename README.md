@@ -190,4 +190,4 @@ Permissions of this strong copyleft license are conditioned on making available 
 - https://github.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/blob/main/LICENSE 
 
 
-
+NEUROMASTER® Token
