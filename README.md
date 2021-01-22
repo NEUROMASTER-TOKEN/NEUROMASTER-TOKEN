@@ -69,7 +69,7 @@ Free NXR Tokens https://wavesclaim.com/faucets/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx
 
 ***
 
-- Link to official 150px x 150px Token Asset Branding NXR. Pushpin .jpeg
+- Link to official 150px x 150px Token Asset Branding NXR. <> .jpeg
 
 https://raw.githubusercontent.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/main/nxr-token-neuromaster-150x150.jpeg
 
