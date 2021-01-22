@@ -1,5 +1,7 @@
 # NEUROMASTER TOKEN  ~>
 
+Blockchain payments Safe, Secure, No 3rd Party and no extra fees.
+
 # HOW TO CLAIM? NXR TOKENS
 
 SUPER HASHTAG AIRDROPS ~Live Now 200 Per User - Currently 1128 Members
