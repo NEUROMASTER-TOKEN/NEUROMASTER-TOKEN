@@ -1,5 +1,7 @@
 # NEUROMASTER® TOKEN  ~>
 
+Harnessing NEURO [wave] Energy
+
 Blockchain payments Safe, Secure, No 3rd Party, No extra fees.
 
 # HOW TO CLAIM? [NXR] TOKENS
