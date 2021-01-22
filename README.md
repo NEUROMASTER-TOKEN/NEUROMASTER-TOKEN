@@ -131,7 +131,7 @@ FREE [NXR] TOKEN FAUCET - > 2000 Tokens Available LIVE FAUCET
 
 Blockchain Explorer https://wavesexplorer.com/assets/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
 
-* https://wavesclaim.com/faucets/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
+* https://wavesclaim.com/faucets/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo  ❤️
 
 * http://neuromaster.io Largest known AirDrop
 
