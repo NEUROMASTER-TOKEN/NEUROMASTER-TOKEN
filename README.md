@@ -1,6 +1,6 @@
 # NEUROMASTER® TOKEN  ~> 
 
-Harnessing NEURO [wave] Energy ❤️
+Harnessing NEURO [WAVES] Energy ❤️
 
 Blockchain payments Safe, Secure, No 3rd Party, No extra fees.
 
