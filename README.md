@@ -2,7 +2,7 @@
 
 Harnessing NEURO [WAVES] Energy ❤️
 
-Blockchain payments Safe, Secure, No 3rd Party, No extra fees. Unique Capacitor Energey Reward System 100000000 XOhm
+Blockchain payments Safe, Secure, No 3rd Party, No extra fees. Unique Capacitor Energey Reward System ~100000000 XOhm
 
 NEUROMASTER® is a registered trademark 
 
