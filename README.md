@@ -178,6 +178,8 @@ Blockchain Explorer https://wavesexplorer.com/assets/3nRvcGfvGmjmZZA1zNRB6pZsurc
 
 * http://neuromaster.io Largest known AirDrop
 
+***
+
 # Rules We Follow
 
 - We will not use the asset for fraudulent purposes;
@@ -279,7 +281,9 @@ WORKING EASY FAUCET - COLLECT WAVES FREE <> https://wavesclaim.com/faucets/waves
 
 * NXR Token Voting Event Coming Soon 
 
+
 ****
+
 
 NEUROMASTER-TOKEN licensed under the GNU General Public License v3.0
 
@@ -311,7 +315,7 @@ https://w8io.ru/3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH/f/7foKYxRo6UW1NqBhjrrHXRQ1Gx
 
 
 ***
-
+***
 
 
 # Cystic Fibrosis
@@ -337,6 +341,7 @@ with cystic fibrosis to pronounce the name of their disease.
 
 65 Roses® is a registered trademark of the Cystic Fibrosis Foundation.
 
+***
 ***
 
 
