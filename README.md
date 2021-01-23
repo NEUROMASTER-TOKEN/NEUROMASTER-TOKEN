@@ -158,9 +158,19 @@ Blockchain Explorer https://wavesexplorer.com/assets/3nRvcGfvGmjmZZA1zNRB6pZsurc
 
 * http://neuromaster.io Largest known AirDrop
 
+# Rules We Follow
+
+- We will not use the asset for fraudulent purposes;
+- We will not duplicate, fully or in part, the name of an existing cryptocurrency or a well-known company with the aim of misleading users;
+- We will not use names of states, other administrative units or municipal institutions for the asset's name with the aim of misleading users;
+- We will not set a script on a smart asset that limits exchange transactions on Waves.Exchange by asset quantity;
+- We will not give false information in a smart asset's description concerning the rules governing the asset's use, which do not correspond to those of the script installed on it;
+- We will not store data from any platforms other than normal operating information like payment address and email (If Agreed) unless stated otherwise.
+- We will do everything in our ability to be fair, transparent, profitable and worthy of trust. 
+***
+- Currently we are sponsoring transaction fees (FREE TRANSFERS) A transaction fee is a fee that an account owner pays to send a transaction in the Waves blockchain.
 
 ****
-
 
 # These are supported funding model platforms
 
