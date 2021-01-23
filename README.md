@@ -11,6 +11,8 @@ NEUROMASTER® is a registered trademark
 SUPER HASHTAG AIRDROPS ~Live Now 200 Per User - Currently 1128 Members. Airdrop will close in March 2021
 * http://neuromaster.io 
 
+- WavesClaim Faucet +10000 https://wavesclaim.com/faucets/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo 
+
 - Uninteruptable offchain Domains and Alias Transfers [info release june 2021]
 
 - w8io [NXR] Blochchain Explorer - https://w8io.ru/3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH/f/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
