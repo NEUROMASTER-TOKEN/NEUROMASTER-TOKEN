@@ -6,6 +6,8 @@ Blockchain payments Safe, Secure, No 3rd Party, No extra fees. Unique Capacitor 
 
 NEUROMASTER® is a registered trademark 
 
+
+
 # HOW TO CLAIM? [NXR] TOKENS
 
 SUPER HASHTAG AIRDROPS ~Live Now 200 Per User - Currently 1348 Members.
@@ -25,7 +27,9 @@ Send and receive blockchain payments to NEUROMASTER® / WAVES in minutes across 
 
 Health industry Contracted Funding Tools [eg Cystic Fibrosis Developments] 65Roses
 
+
 ***
+
 
 The Waves/NEUROMASTER protocol’s smart contracts enable changing the default behaviour of accounts and assets. Using NEUROMASTER® smart contracts on Waves, you can also create a dApp — an application that is stored and executed on the blockchain network.
 
@@ -50,13 +54,18 @@ NSBT/NEUROMASTER Utility token for the Neutrino system designed to ensure the st
 
 Interchain DeFi via Gravity (coming Very soon) 
 
+
+
 ***
+
+
 
 Text Contract Agreements using #MATRIX Crypto Development
 
 Register Original Multimedia Files (EnCaSe) File Encryption
 
 ***
+
 
 # IsoChronic Music Sync APP IOS/ANDROID/DESKTOP (Play your favorite music with blended IsoChronic BioHacking Sound Technology
 
@@ -86,11 +95,14 @@ Free NXR Tokens https://wavesclaim.com/faucets/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx
 
 - NXR Digital Asset ID: 3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo - GNU General Public License v3.0
 
+
 ***
+
 
 - Link to official 150px x 150px Token Asset Branding NXR. <> .jpeg
 
 https://raw.githubusercontent.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/main/nxr-token-neuromaster-150x150.jpeg
+
 
 
 # Buy, Trade or Stake NXR (NEUROMASTER) Tokens 
@@ -118,7 +130,9 @@ You can claim multiple tokens on the Faucets page.
 - Click Button "Claim"
 - You receive the tokens in your wallet after claiming a faucet 10 times
 
+
 ****
+
 
 # PROFIT STAKING ~17%
 
@@ -146,7 +160,10 @@ Must use this waves wallet address = 3P8udu4KVEAw2Dd1Snif8VVcLSKoji15JTU
 Current Staking Balance: 2443.109404100 Gatherer
 
 
+
 ****
+
+
 
 Claim Free Digital Asset Directly
 # NEUROMASTER® Faucet
@@ -170,10 +187,18 @@ Blockchain Explorer https://wavesexplorer.com/assets/3nRvcGfvGmjmZZA1zNRB6pZsurc
 - We will not give false information in a smart asset's description concerning the rules governing the asset's use, which do not correspond to those of the script installed on it;
 - We will not store data from any platforms other than normal operating information like payment address and email (If Agreed) unless stated otherwise.
 - We will do everything in our ability to be fair, transparent, profitable and worthy of trust. 
+
+
 ***
+
+
+# Sponsorship
+
 - Currently we are sponsoring transaction fees (FREE TRANSFERS) A transaction fee is a fee that an account owner pays to send a transaction in the Waves blockchain.
 
+
 ****
+
 
 # These are supported funding model platforms
 
@@ -211,7 +236,11 @@ Safe Private Social Sharing Tokens - Make Digital Money without changing anythin
 
 - Coming soon #MATRIX Self Hosted [Zero Log] Signaling Uniteruptables neuroz
 
+
+
 ****
+
+
 
 # Neutrino/Waves driving NXR 
 
@@ -222,13 +251,16 @@ Neutrino is an algorithmic price-stable cryptocurrency protocol that allows for 
 - Universal Digital Token System Information and documentation will be available online in early 2021
 
 We provide an easy experience to claim NEUROMASTER. No personal data is saved. NEUROMASTER®
-Tech will ensure ultimate privacy and zero sensitive data stored online. 
-"Best ethical standards ever" #HASTAG #Loyalty #ThePeople
+Tech will ensure ultimate privacy and zero logs.
+NEUROMASTER Token will Exceed exspectations in ethical standards and privacy -  #HASTAG #Loyalty
+
+Claim Once Per Address (Random Bonuses up to 25000 Tokens will be automated  Faucet/token claim now  NEUROMASTER®
 
 
-As long as the transaction fees are covered by the Faucet/token owner, you can claim NEUROMASTER®
 
 ***
+
+
 
 # NXR Referral System
 
@@ -257,7 +289,11 @@ Permissions of this strong copyleft license are conditioned on making available 
 
 Youtube Waves Token Corporate Video https://youtu.be/3pjMueirxGU 
 
+
+
 ***
+
+
 
 # CryptoMusic Token Development late 2021 [CRYPTOM] 
 
@@ -267,11 +303,16 @@ https://w8io.ru/3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH/f/7foKYxRo6UW1NqBhjrrHXRQ1Gx
 - NEUROMASTER® Token [NXR] Old project soon to be migrated - https://github.com/65roses
 
 ***
+
+
 # Donations 
 
 - Greatly Appreciated - Waves Wallet Address  WAVES [NXR] # | 3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 
+
 ***
+
+
 
 # Cystic Fibrosis
 
@@ -297,6 +338,7 @@ with cystic fibrosis to pronounce the name of their disease.
 65 Roses® is a registered trademark of the Cystic Fibrosis Foundation.
 
 ***
+
 
 
 
