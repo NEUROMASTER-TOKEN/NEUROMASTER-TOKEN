@@ -54,7 +54,32 @@ NSBT/NEUROMASTER Utility token for the Neutrino system designed to ensure the st
 
 Interchain DeFi via Gravity (coming Very soon) 
 
+# Why we choose Waves
 
+- Fast: Waves has a one minute block time (up to 1,000 txs per second).
+
+- Low Fees: Each transaction comes with a cost of 0.001 WAVES (yes, transaction fees can be paid in tokens).
+
+- Fiat Transfer: Fully compliant, licensed gateway that provides access into and out of the blockchain. 
+
+- EUR blockchain tokens are already available, and USD and other currencies are planned in the future. 
+
+- The tokens are fully backed by fiat deposits. Bitcoin gateways and other tokens are also available.
+
+- Easy Token Operations: You can launch a new crypto token in under a minute (seriously). 
+
+- Waves also has tools for mass token distribution.
+
+- Ideal for Crowdfunding: Waves is becoming an increasingly popular crowdfunding platform. 
+
+- It makes it easy for startups to plan and distribute tokens through a secure, easy-to-use marketplace.
+
+- Decentralized Exchange (DEX): Waves offers peer-to-peer trading from within the client. 
+
+- You can trade any pair of Waves tokens. Users enjoy near-realtime order matching and blockchain settlement for security.
+
+***
+***
 
 ***
 
