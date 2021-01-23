@@ -202,7 +202,9 @@ Blockchain Explorer https://wavesexplorer.com/assets/3nRvcGfvGmjmZZA1zNRB6pZsurc
 ****
 
 
-# These are supported funding model platforms
+# Supported funding model platforms
+
+* Waves Coin 
 
 * Token Faucet Delivery System https://wavesclaim.com/
 
