@@ -8,8 +8,9 @@ NEUROMASTER® is a registered trademark
 
 # HOW TO CLAIM? [NXR] TOKENS
 
-SUPER HASHTAG AIRDROPS ~Live Now 200 Per User - Currently 1128 Members. Airdrop will close in March 2021
-* http://neuromaster.io 
+SUPER HASHTAG AIRDROPS ~Live Now 200 Per User - Currently 1348 Members.
+
+* Official Airdrop Claim 200 per address Closes 24/02/2021 - http://neuromaster.io 
 
 - WavesClaim Faucet +10000 https://wavesclaim.com/faucets/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo 
 
