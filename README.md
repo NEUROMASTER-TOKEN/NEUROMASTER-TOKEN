@@ -27,6 +27,8 @@ Send and receive blockchain payments to NEUROMASTER® / WAVES in minutes across 
 
 Health industry Contracted Funding Tools [eg Cystic Fibrosis Developments] 65Roses
 
+***
+- Original Git Development Community https://github.com/neuromaster (Soon to be intergrated)
 --- 
 ***
 Wavesclaim Widget Ticker NXR Token
