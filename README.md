@@ -20,7 +20,7 @@ SUPER HASHTAG AIRDROPS ~Live Now 200 Per User - Currently 1348 Members.
 
 - w8io [NXR] Blochchain Explorer - https://w8io.ru/3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH/f/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo
 
-- Direct Pay Cryptocurrency
+- Direct Pay Cryptocurrency - Wallet Downloads the Waves software here https://wavesplatform.com/downloads.html
 
 - Fast global payments
 Send and receive blockchain payments to NEUROMASTER® / WAVES in minutes across the globe.
