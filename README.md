@@ -1,7 +1,7 @@
 # NEUROMASTER® TOKEN  ~> 
 
 ***
-NOTE we are backlogged with Faucet Payments we processing 2000 200 and 10 NXR Token Claims.  
+NOTE we are behind with Faucet Payments will begin again in 48hrs processing 2000 200 and 10 NXR Token Claims.  
 Every Wallet that applied will be paid. Random BONUSES Like Always. An email will appear on
 this page for support on missing $2500 Claims e.g. 20 $2500 NXR Claims in 2019.
 ***
