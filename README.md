@@ -6,7 +6,7 @@ Every Wallet that applied will be paid. Random BONUSES Like Always. An email wil
 this page for support on missing $2500 Claims e.g. 20 $2500 NXR Claims in 2019. Approx ~$0.08 USD Per [NXR] Token. 
 ***
 
-- Stepped Into the Future. Application Cases https://wavesenterprise.com/use-cases/category/all
+- Stepped Into the Future [NXT] Application Cases https://wavesenterprise.com/use-cases/category/all
 
 Harnessing NEURO [WAVES] Energy ❤️ Use for free waves trading and transaction fees
 
