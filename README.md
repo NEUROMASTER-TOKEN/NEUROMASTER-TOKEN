@@ -134,7 +134,7 @@ Free NXR Tokens https://wavesclaim.com/faucets/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx
 
 - NXR Digital Asset ID: 3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo - GNU General Public License v3.0
 
-- Join us > CryptMusic enthusiast bros/babes, hardcore tech geeks, CEOs Supporting Music Publishing Rights. TBD.. Create Group
+- Join us > CryptMusic enthusiast bros/babes, hardcore tech geeks and CEOs Supporting Music Publishing Rights. TBD.. Create Group
 
 ***
 
