@@ -3,7 +3,7 @@
 ***
 NOTE: We are behind with Faucet Payments. Please check again in 48hrs processing 2000 200 and 10 NXR Token Claims.  
 Every Wallet that applied will be paid. Random BONUSES Like Always. An email will appear on
-this page for support on missing $2500 Claims e.g. 20 $2500 NXR Claims in 2019. Approx ~0.08 USD Per Token. 
+this page for support on missing $2500 Claims e.g. 20 $2500 NXR Claims in 2019. Approx ~$0.08 USD Per Token. 
 ***
 
 - Stepped Into the Future. Application Cases https://wavesenterprise.com/use-cases/category/all
