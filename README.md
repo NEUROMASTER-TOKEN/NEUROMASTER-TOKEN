@@ -61,6 +61,9 @@ An estimated annual yield can range from 8% to 15%, depending on market conditio
 
 NSBT/NEUROMASTER Utility token for the Neutrino system designed to ensure the stability of reserves on the Neutrino smart contract.
 
+# Anchoring
+- A reference data storage service that provides data security by publishing from a private blockchain to the mainnet.
+
 Interchain DeFi via Gravity (coming Very soon) 
 
 # Why we choose Waves
