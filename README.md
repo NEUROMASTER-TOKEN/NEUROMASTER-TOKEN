@@ -112,19 +112,25 @@ Register Original Multimedia Files (EnCaSe) File Encryption
 
 #CryptoMusic Demo Sound File #NEUROMASTER © 2021 o! 🎶 
 
-[WARNING]
-May Cause Overwhelming Feelings
-of Great pleasure and Happiness.
+# BASS Token - Audio Brige Defi Swap - https://github.com/nxrtoken/BASS
+
+# [WARNING]
+  May Cause Overwhelming Feelings
+  of Great pleasure and Happiness.
+  
+  
 
 - Improve your long term memory.
 
-Long Term Memory https://audius.co/neuromaster/neuromaster-ltm-isochronic-isolated-biohacking-sound-waves-218182
+- Long Term Memory https://audius.co/neuromaster/neuromaster-ltm-isochronic-isolated-biohacking-sound-waves-218182
 
 - Experience pleasure or excitement and intense feelings of well-being and happiness. 
 
-Euphoria https://audius.co/neuromaster/neuromaster-isochronic-ephoric-free-biohack-225543
+- Euphoria https://audius.co/neuromaster/neuromaster-isochronic-ephoric-free-biohack-225543
 
-Extra Demo Branding https://audius.co/neuromaster/neuromaster-super-hashtags-ai-speaks-229806
+- Extra Demo Branding https://audius.co/neuromaster/neuromaster-super-hashtags-ai-speaks-229806
+
+- Already Valued Music Token/Asset
 
 ***
 
@@ -170,9 +176,7 @@ You can claim multiple tokens on the Faucets page.
 - Click Button "Claim"
 - You receive the tokens in your wallet after claiming a faucet 10 times
 
-
 ****
-
 
 # PROFIT STAKING ~17%
 
@@ -199,11 +203,7 @@ Must use this waves wallet address = 3P8udu4KVEAw2Dd1Snif8VVcLSKoji15JTU
 5 Confirmations needed till balance shows up or withdrawal (5-15 Minutes)
 Current Staking Balance: 2443.109404100 Gatherer
 
-
-
 ****
-
-
 
 Claim Free Digital Asset Directly
 # NEUROMASTER® Faucet
