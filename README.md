@@ -373,6 +373,7 @@ with cystic fibrosis to pronounce the name of their disease.
 
 https://wavesenterprise.com/use-cases/patient-data
 
+https://wavesenterprise.com/use-cases/category/all
 ***
 ***
 
