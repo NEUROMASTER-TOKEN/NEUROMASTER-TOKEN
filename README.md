@@ -1,5 +1,11 @@
 # NEUROMASTER® TOKEN  ~> 
 
+========================
+NOTE we are backlogged with Faucet Payments we processing 2000 200 and 10 NXR Token Claims.  
+Every Wallet that applied will be paid. Random BONUSES Like Always. An email will appear on
+this page for support on missing $2500 Claims e.g. 20 $2500 NXR Claims in 2019.
+========================
+
 - Stepped Into the Future. Application Cases https://wavesenterprise.com/use-cases/category/all
 
 Harnessing NEURO [WAVES] Energy ❤️ Use for free waves trading and transaction fees
