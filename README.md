@@ -1,6 +1,6 @@
 # NEUROMASTER® TOKEN  ~> 
 
-- Stepped Into the Future
+- Stepped Into the Future. Application Cases https://wavesenterprise.com/use-cases/category/all
 
 Harnessing NEURO [WAVES] Energy ❤️ Use for free waves trading and transaction fees
 
