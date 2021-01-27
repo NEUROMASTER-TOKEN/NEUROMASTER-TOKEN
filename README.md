@@ -387,7 +387,7 @@ https://wavesenterprise.com/use-cases/category/all
 ***
 ***
 
-
+A single version of «the truth» for all participants
 
 
 
