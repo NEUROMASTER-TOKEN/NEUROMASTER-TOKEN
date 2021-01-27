@@ -385,9 +385,9 @@ https://wavesenterprise.com/use-cases/patient-data
 
 https://wavesenterprise.com/use-cases/category/all
 ***
-***
 
 A single version of «the truth» for all participants
 
-
+**
+- Swap Waves https://swop.fi
 
