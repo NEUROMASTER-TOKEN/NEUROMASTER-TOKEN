@@ -4,6 +4,8 @@ Harnessing NEURO [WAVES] Energy ❤️ Use for free waves trading and transactio
 
 Blockchain payments Safe, Secure, No 3rd Party, No extra fees. Unique Capacitor Energey Reward System ~100000000 XOhm
 
+Product authenticity e.g. Audio File Verification, Point of Sale, Fundraising  https://wavesenterprise.com/use-cases/product-authenticity
+
 NEUROMASTER® is a registered trademark 
 
 - Waves Enterprise Blockchain Applications https://wavesenterprise.com/use-cases/category/all *****
