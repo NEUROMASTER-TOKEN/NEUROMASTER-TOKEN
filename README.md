@@ -14,7 +14,7 @@ Blockchain payments Safe, Secure, No 3rd Party, No extra fees. Unique Capacitor 
 
 Product authenticity e.g. Audio File Verification, Point of Sale, Fundraising  https://wavesenterprise.com/use-cases/product-authenticity
 
-- # To build consumer trust in a product, it is vital to provide the tools for verifying its authenticity
+- # Build consumer trust in a product, it is vital to provide the tools for verifying its authenticity
 
 NEUROMASTER® is a registered trademark 
 
