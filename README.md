@@ -6,7 +6,7 @@ Blockchain payments Safe, Secure, No 3rd Party, No extra fees. Unique Capacitor 
 
 NEUROMASTER® is a registered trademark 
 
-
+- Waves Enterprise Blockchain Applications https://wavesenterprise.com/use-cases/category/all *****
 
 # HOW TO CLAIM? [NXR] TOKENS
 
