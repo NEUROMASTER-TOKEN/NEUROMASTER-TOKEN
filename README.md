@@ -12,7 +12,7 @@ Harnessing NEURO [WAVES] Energy ❤️ Use for free waves trading and transactio
 
 Blockchain payments Safe, Secure, No 3rd Party, No extra fees. Unique Capacitor Energey Reward System ~100000000 XOhm
 
-Product authenticity e.g. Audio File Verification, Point of Sale, Fundraising  https://wavesenterprise.com/use-cases/product-authenticity
+Product authenticity e.g. File Verification, Point of Sale, Fundraising  https://wavesenterprise.com/use-cases/product-authenticity
 
 - # Build consumer trust in a product, it is vital to provide the tools for verifying its authenticity
 
@@ -118,7 +118,7 @@ Register Original Multimedia Files (EnCaSe) File Encryption
 
 #CryptoMusic Demo Sound File #NEUROMASTER © 2021 o! 🎶 
 
-# BASS Token - Audio Brige Defi Swap - https://github.com/nxrtoken/BASS
+# BASS Token - Audio Bridge Defi Swap - https://github.com/nxrtoken/BASS
 
 # [WARNING]
   May Cause Overwhelming Feelings
