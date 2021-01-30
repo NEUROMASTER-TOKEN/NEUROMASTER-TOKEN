@@ -20,6 +20,8 @@ NEUROMASTER® is a registered trademark
 
 - Waves Enterprise Blockchain Applications https://wavesenterprise.com/use-cases/category/all *****
 
+- Exchange Crypto Currency e.g Waves to Bitcoin https://exchange.neuromaster.io/
+
 # HOW TO CLAIM? [NXR] TOKENS
 
 SUPER HASHTAG AIRDROPS ~Live Now 200 Per User - Currently 1348 Members.
