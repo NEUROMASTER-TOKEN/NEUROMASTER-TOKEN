@@ -20,7 +20,9 @@ NEUROMASTER® is a registered trademark
 
 - Waves Enterprise Blockchain Applications https://wavesenterprise.com/use-cases/category/all *****
 
-- Exchange Crypto Currency e.g Waves to Bitcoin https://exchange.neuromaster.io/
+- Exchange Crypto Currency e.g Waves to Bitcoin https://exchange.neuromaster.io/ 
+
+- Waves Exchange Referal Link https://waves.exchange?ref=3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 
 # HOW TO CLAIM? [NXR] TOKENS
 
