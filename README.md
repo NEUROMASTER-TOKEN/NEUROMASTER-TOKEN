@@ -4,6 +4,11 @@ Harnessing NEURO [WAVES] Energy ❤️ Use for free waves trading and transactio
 
 - UPDATE - WAVES token has been ported to Ethereum [ETH] #unspoppable - neuromaster.crypto
 
+-
+
+Waves (WAVES), a blockchain-based platform for developing enterprise-grade applications, 
+will be issuing an ERC-20 compliant token as part of its collaboration with the Ethereum (ETH) network
+
 ***
 NOTE: We are behind with Faucet Payments. Please check again in 48hrs processing 2000 200 and 10 NXR Token Claims.  
 Every Wallet that applied will be paid. Random BONUSES Like Always. An email will appear on
