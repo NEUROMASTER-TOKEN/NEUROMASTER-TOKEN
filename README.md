@@ -1,5 +1,7 @@
 # NEUROMASTER® TOKEN  ~> 
 
+Harnessing NEURO [WAVES] Energy ❤️ Use for free waves trading and transaction fees
+
 ***
 NOTE: We are behind with Faucet Payments. Please check again in 48hrs processing 2000 200 and 10 NXR Token Claims.  
 Every Wallet that applied will be paid. Random BONUSES Like Always. An email will appear on
@@ -8,7 +10,17 @@ this page for support on missing $2500 Claims e.g. 20 $2500 NXR Claims in 2019. 
 
 - Step Into the Future [NXT] Application Cases https://wavesenterprise.com/use-cases/category/all
 
-Harnessing NEURO [WAVES] Energy ❤️ Use for free waves trading and transaction fees
+***
+
+- Unstoppable - Immutable and verifiable One truth - Unchanged Data Publishing - Proof of Authorship 
+
+- Copyrighted item in a public decentralized registry - Customizable distributed treasury and cash management 
+
+- Cross-border payments - Authenticity and integrity of products - Mass Direct Payments - Exchange for other currency's
+
+
+***
+
 
 Blockchain payments Safe, Secure, No 3rd Party, No extra fees. Unique Capacitor Energey Reward System ~100000000 XOhm
 
