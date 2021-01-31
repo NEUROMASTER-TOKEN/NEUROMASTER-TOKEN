@@ -2,7 +2,7 @@
 
 Harnessing NEURO [WAVES] Energy ❤️ Use for free waves trading and transaction fees
 
-- UPDATE - WAVES token has been ported to Ethereum [ETH] #unspoppable
+- UPDATE - WAVES token has been ported to Ethereum [ETH] #unspoppable - neuromaster.crypto
 
 ***
 NOTE: We are behind with Faucet Payments. Please check again in 48hrs processing 2000 200 and 10 NXR Token Claims.  
