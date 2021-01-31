@@ -18,6 +18,7 @@ this page for support on missing $2500 Claims e.g. 20 $2500 NXR Claims in 2019. 
 
 - Cross-border payments - Authenticity and integrity of products - Mass Direct Payments - Exchange for other currency's
 
+- Funding/Donation Collection - Asset Accumliation and Rewards - corporate votes and referendums
 
 ***
 
