@@ -1,6 +1,8 @@
 # NEUROMASTER® TOKEN  ~> 
 
-Harnessing NEURO [WAVES] Energy ❤️ Use for free waves trading and transaction fees
+- Not Re-issuable
+
+- Harnessing NEURO [WAVES] Energy ❤️ Use for free waves trading and transaction fees
 
 - UPDATE - WAVES token has been ported to Ethereum [ETH] #unspoppable - neuromaster.crypto
 
