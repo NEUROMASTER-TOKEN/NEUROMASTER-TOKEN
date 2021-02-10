@@ -10,7 +10,7 @@
 
 # 7 Day Trade Breakdown
 
-- NEUROMASTER / WAVES  :  3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo/WAVES
+NEUROMASTER / WAVES  :  3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo/WAVES
 
    Date             Open             High              Low             Close            VWAP           Volume        WAVES Volume
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -23,7 +23,7 @@
 02/04/2021       0.00000000       0.00000000       0.00000000       0.00000000       0.00000000             0.00       0.00000000
 ------------------------------------------------------------------------------------------------------------------------------------
 
-- NEUROMASTER / WBTC  :  3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo/8LQW8f7P5d5PZM7GtZEBgaqRPGSzS3DfPuiXrURJ4AJS
+NEUROMASTER / WBTC  :  3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo/8LQW8f7P5d5PZM7GtZEBgaqRPGSzS3DfPuiXrURJ4AJS
 
    Date             Open             High              Low             Close            VWAP           Volume          BTC Volume
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -36,7 +36,7 @@
 02/04/2021       0.00000000       0.00000000       0.00000000       0.00000000       0.00000000             0.00       0.00000000
 ------------------------------------------------------------------------------------------------------------------------------------
 
-- NEUROMASTER / USD-N  :  3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo/DG2xFkPdDwKUoBkzGAhQtLpSGzfXLiCYPEzeKH2Ad24p
+NEUROMASTER / USD-N  :  3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo/DG2xFkPdDwKUoBkzGAhQtLpSGzfXLiCYPEzeKH2Ad24p
 
 
    Date             Open             High              Low             Close            VWAP           Volume          USD Volume
