@@ -10,7 +10,7 @@
 
 # 7 Day Trade Breakdown
 
-- https://github.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/blob/main/7DayTradeStats.txt
+- 7DAYS https://github.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/blob/main/7DayTradeStats.txt
 
 
 Waves (WAVES), a blockchain-based platform for developing enterprise-grade applications, 
