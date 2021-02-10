@@ -1,3 +1,6 @@
+
+
+
 # NEUROMASTER Token / Waves Platform Wallet: https://waves.exchange/?ref=3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 
 - 7 Day Trade Update
@@ -48,3 +51,7 @@ NEUROMASTER / USD-N  :  3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo/DG2xFkPdDwK
 02/05/2021     10000.000000    520000.000000     10000.000000    150000.000000    164470.102085            82.28  13532599.999553
 02/04/2021         0.000000         0.000000         0.000000         0.000000         0.000000             0.00         0.000000
 ------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
