@@ -6,6 +6,7 @@
 
 - UPDATE - WAVES token has been ported to Ethereum [ETH] #unspoppable - neuromaster.crypto
 
+- Waves Exchange and Wallet https://waves.exchange?ref=3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 -
 
 Waves (WAVES), a blockchain-based platform for developing enterprise-grade applications, 
