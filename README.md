@@ -10,6 +10,7 @@
 
 
 
+
 Waves (WAVES), a blockchain-based platform for developing enterprise-grade applications, 
 will be issuing an ERC-20 compliant token as part of its collaboration with the Ethereum (ETH) network
 
