@@ -8,7 +8,9 @@
 
 - Waves Exchange and Wallet https://waves.exchange?ref=3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 
+3 7 Day Trade Breakdown
 
+- https://github.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/blob/main/7DayTradeStats.txt
 
 
 Waves (WAVES), a blockchain-based platform for developing enterprise-grade applications, 
