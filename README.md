@@ -39,17 +39,16 @@ Product authenticity e.g. File Verification, Point of Sale, Fundraising  https:/
 
 - # Build consumer trust in a product, it is vital to provide the tools for verifying its authenticity
 
-NEUROMASTER® is a registered trademark 
+NEUROMASTER® is a registered trademark
+
+- Waves Wallet / Exchange = Our Referal Link https://waves.exchange?ref=3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 
 - Waves Enterprise Blockchain Applications https://wavesenterprise.com/use-cases/category/all *****
 
-- Exchange Crypto Currency e.g Waves to Bitcoin https://exchange.neuromaster.io/ 
 
-- Waves Exchange Referal Link https://waves.exchange?ref=3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 
 # SEED & Password
-> Before you create an account, you should know some important points about the Waves.Exchange wallet system. In Waves.Exchange wallet, there is no .dat file which keeps your private keys but a SEED which grants you access to them. The SEED is by default a string of 15 English words and basically your passphrase to your funds - if you lose your SEED, you lose access to your account. http://slicer.fun/qt97i
-
+> Before you create an account, you should know some important points about the Waves.Exchange wallet system. In Waves.Exchange wallet, there is no .dat file which keeps your private keys but a SEED which grants you access to them. The SEED is by default a string of 15 English words and basically your passphrase to your funds - if you lose your SEED, you lose access to your account. https://waves.exchange?ref=3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 # HOW TO CLAIM? [NXR] TOKENS
 
 SUPER HASHTAG AIRDROPS ~Live Now 200 Per User - Currently 1348 Members.
