@@ -1,6 +1,6 @@
 # NEUROMASTER® TOKEN  ~> 
 
-- Not Re-issuable
+> - Not Re-issuable - Activate Sponsored Transactions
 
 - Harnessing NEURO [WAVES] Energy ❤️ Use for free waves trading and transaction fees
 
