@@ -1,6 +1,9 @@
 # NEUROMASTER® TOKEN  ~> 
 
 > - Not Re-issuable - Activate Sponsored Transactions - Waves Partnership
+> 
+
+> Supply 100,000,000 Billion - Approximate Value ~ $1,300,000 USD
 
 - Harnessing NEURO [WAVES] Energy ❤️ Use for free waves trading and transaction fees
 
