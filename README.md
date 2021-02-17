@@ -10,19 +10,15 @@
 
 # 7 Day Trade Breakdown
 
-- 7DAYS https://github.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/blob/main/7DayTradeStats.txt
+> - 7DAYS https://github.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/blob/main/7DayTradeStats.txt
 
 
 Waves (WAVES), a blockchain-based platform for developing enterprise-grade applications, 
 will be issuing an ERC-20 compliant token as part of its collaboration with the Ethereum (ETH) network
 
 ***
-NOTE: We are behind with Faucet Payments. Please check again in 48hrs processing 2000 200 and 10 NXR Token Claims.  
-Every Wallet that applied will be paid. Random BONUSES Like Always. An email will appear on
-this page for support on missing $2500 Claims e.g. 20 $2500 NXR Claims in 2019. Approx ~$0.08 USD Per [NXR] Token. 
-***
-
-- Step Into the Future [NXT] Application Cases https://wavesenterprise.com/use-cases/category/all
+# WAVES ENTERPRISE 
+> - Step Into the Future [NXT] Application Cases https://wavesenterprise.com/use-cases/category/all
 
 ***
 
