@@ -9,6 +9,8 @@
 
 - Waves Exchange and Wallet https://waves.exchange?ref=3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 
+- Direct Trading Link to current prices https://waves.exchange/trading/spot/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo_WAVES
+
 # Cystic Fibrosis 1,000,000 Token Donation Stake For Transfer 
 
 > To Address -  3PQgikhzj5RXdrChcddPDbRxagcAoYa7BhA
