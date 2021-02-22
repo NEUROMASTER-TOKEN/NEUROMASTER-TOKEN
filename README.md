@@ -11,15 +11,12 @@
 
 Cystic Fibrosis 1,000,000 Token Donation Stake For Transfer 
 
-> To 3PQgikhzj5RXdrChcddPDbRxagcAoYa7BhA
-Description
-1 million Tokens - Donation to Cystic Fibrosis Foundation HELD for transfer to official wallet. Proof of transfer will be on the CFA Website
-Timestamp
-22.02.2021 14:57:51
-Block
-2472648
-TXID
-2rrvcMpAgjGXBfUBjD9VZEBu3q4LSHwpwatxPaQBdxwt
+> To Address -  3PQgikhzj5RXdrChcddPDbRxagcAoYa7BhA
+Description - 1 million Tokens - Donation to Cystic Fibrosis Foundation HELD for transfer to official wallet. 
+Proof of transfer will be on the CFA Website
+Timestamp - 22.02.2021 = 14:57:51
+Block - 2472648
+TXID - 2rrvcMpAgjGXBfUBjD9VZEBu3q4LSHwpwatxPaQBdxwt
 
 ***
 
