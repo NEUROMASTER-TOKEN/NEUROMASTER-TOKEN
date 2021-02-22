@@ -16,7 +16,8 @@
 - Proof of transfer will be on the CFA Website
 - Timestamp - 22.02.2021 = 14:57:51
 - Block - 2472648
-TXID - 2rrvcMpAgjGXBfUBjD9VZEBu3q4LSHwpwatxPaQBdxwt
+- TXID - 2rrvcMpAgjGXBfUBjD9VZEBu3q4LSHwpwatxPaQBdxwt
+- https://wavesexplorer.com/tx/2rrvcMpAgjGXBfUBjD9VZEBu3q4LSHwpwatxPaQBdxwt
 
 ***
 
