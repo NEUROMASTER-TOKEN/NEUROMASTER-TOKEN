@@ -19,6 +19,11 @@
 - TXID - 2rrvcMpAgjGXBfUBjD9VZEBu3q4LSHwpwatxPaQBdxwt
 - https://wavesexplorer.com/tx/2rrvcMpAgjGXBfUBjD9VZEBu3q4LSHwpwatxPaQBdxwt
 
+> * 200,000 Bass Token Donation to Cystic Fibrosis Foundation HELD for transfer to official wallet.
+> TXID - 9LbSqhFCNg7C77BHGKfWEwKM9L8GYSdFgr1pNa5MXRfk
+> Timestamp - 22.02.2021 15:07:40
+> View Transaction https://wavesexplorer.com/tx/9LbSqhFCNg7C77BHGKfWEwKM9L8GYSdFgr1pNa5MXRfk
+
 ***
 
 # 7 Day Trade Breakdown
