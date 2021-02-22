@@ -24,6 +24,12 @@
 - Timestamp - 22.02.2021 15:07:40
 - View Transaction https://wavesexplorer.com/tx/9LbSqhFCNg7C77BHGKfWEwKM9L8GYSdFgr1pNa5MXRfk
 
+> 10,000 BullRunToken Donation to Cystic Fibrosis Foundation HELD for transfer to official wallet.
+- Timestamp 22.02.2021 15:12:52
+- Block 2472660
+- TXID Bh3KcSHG5ukSjQEHYjBxVbpUWC8o6B8ts97RmPyaJj1m
+- Proof Of Transfer https://wavesexplorer.com/tx/Bh3KcSHG5ukSjQEHYjBxVbpUWC8o6B8ts97RmPyaJj1m
+
 ***
 
 # 7 Day Trade Breakdown
