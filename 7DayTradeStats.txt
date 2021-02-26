@@ -4,8 +4,10 @@ $BASS TOKEN Value 14.6 Million USD
 
 $NEUROMASTER Value 1.13 Million USD
 
-> - 7 Day Trade Update
+## > - 7 Day Trade Update
 
+
+NEUROMASTER / WAVES  :  3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo/WAVES
 
    Date             Open             High              Low             Close            VWAP           Volume        WAVES Volume
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -17,6 +19,7 @@ $NEUROMASTER Value 1.13 Million USD
 02/21/2021     299.87000000     299.87000000     199.90000000     199.90000000     288.76592358            90.03   25997.59609990
 02/20/2021      74.95000000     299.90000000      74.95000000     299.90000000     120.20977711           265.16   31874.82449848
 ------------------------------------------------------------------------------------------------------------------------------------
+
 
 NEUROMASTER / WBTC  :  3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo/8LQW8f7P5d5PZM7GtZEBgaqRPGSzS3DfPuiXrURJ4AJS
 
@@ -46,6 +49,7 @@ NEUROMASTER / WBTC  :  3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo/8LQW8f7P5d5P
 02/15/2021       0.00000000       0.00000000       0.00000000       0.00000000       0.00000000             0.00       0.00000000
 -----------------------------------------------------------------------------------------------------------------------------------
 
+
 NEUROMASTER / WAVES  :  3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo/WAVES
 
    Date             Open             High              Low             Close            VWAP           Volume        WAVES Volume
@@ -60,7 +64,8 @@ NEUROMASTER / WAVES  :  3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo/WAVES
 ------------------------------------------------------------------------------------------------------------------------------------
 
 *** 
-# ------->>>>> Examples of other popular Crypto Currency Tokens
+## ------->>>>> Examples of other popular Crypto Currency Tokens
+
 
 Comparison Volume [$WAVES] WAVES / WBTC  :  WAVES/8LQW8f7P5d5PZM7GtZEBgaqRPGSzS3DfPuiXrURJ4AJS
 
@@ -74,6 +79,8 @@ Comparison Volume [$WAVES] WAVES / WBTC  :  WAVES/8LQW8f7P5d5PZM7GtZEBgaqRPGSzS3
 02/21/2021       0.00022005       0.00022740       0.00021048       0.00021542       0.00021791   61284.76522147      13.35456318
 02/20/2021       0.00022061       0.00023619       0.00021447       0.00021905       0.00022474   69304.50041221      15.57549342
 ------------------------------------------------------------------------------------------------------------------------------------
+
+
 Comparison Volume Grosh / WBTC  :  2n4tMfyyg8GrTfCj98rdShRnbjBhBYTpw6wfzEcH4ERC/8LQW8f7P5d5PZM7GtZEBgaqRPGSzS3DfPuiXrURJ4AJS
 
    Date             Open             High              Low             Close            VWAP           Volume          BTC Volume
