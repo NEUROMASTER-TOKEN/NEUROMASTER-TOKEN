@@ -10,6 +10,8 @@ Week Begining 02/20/2021
 
 Total Waves Traded 198446745475.6765 NEUROMASTER / WAVES  :  3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo/WAVES
 
+> https://github.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/edit/main/7DayTradeStats.txt
+
 ***
 
 - UPDATE - WAVES token has been ported to Ethereum [ETH] #unspoppable - neuromaster.crypto
