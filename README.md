@@ -1,7 +1,6 @@
-<img src="https://github.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/blob/main/neuromaster-token.png" width=200 /> ![](images/k8s-dashboard.png)
-
-
 # NEUROMASTER® TOKEN  ~> http://neuromaster.io
+
+<img src="https://github.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/blob/main/neuromaster-token.png" width=200 /> ![](images/k8s-dashboard.png)
 
 > - Not Re-issuable - Activate Sponsored Transactions - Waves Partnership
 > - Supply 100,000,000 Billion - Approximate Value ~ $1,300,000 USD
