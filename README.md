@@ -1,4 +1,4 @@
-<img src="hhttps://github.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/blob/main/neuromaster-token.png" width=200 /> ![](images/k8s-dashboard.png)
+<img src="https://github.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/blob/main/neuromaster-token.png" width=200 /> ![](images/k8s-dashboard.png)
 
 
 # NEUROMASTER® TOKEN  ~> http://neuromaster.io
