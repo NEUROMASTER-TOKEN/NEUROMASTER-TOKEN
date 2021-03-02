@@ -8,19 +8,19 @@
 - Harnessing NEURO [WAVES] Energy ❤️ Use for free waves trading and transaction fees
 
 ***
-Week Begining 02/20/2021
 
-Total Waves Traded 198446745475.6765 NEUROMASTER / WAVES  :  3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo/WAVES
+
+### Crypto Currency Pair NEUROMASTER / WAVES  :  3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo/WAVES
 
 > https://github.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/edit/main/7DayTradeStats.txt
 
 ***
 
-- UPDATE - WAVES token has been ported to Ethereum [ETH] #unspoppable - neuromaster.crypto
+> - UPDATE - WAVES token has been ported to Ethereum [ETH] #unspoppable - neuromaster.crypto
 
-- Waves Exchange and Wallet https://waves.exchange?ref=3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
+> - Waves Exchange and Wallet https://waves.exchange?ref=3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 
-- Direct Trading Link to current prices https://waves.exchange/trading/spot/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo_WAVES
+> - Direct Trading Link to current prices https://waves.exchange/trading/spot/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo_WAVES
 
 ## Cystic Fibrosis 1,000,000 Token Donation Stake For Transfer 
 
