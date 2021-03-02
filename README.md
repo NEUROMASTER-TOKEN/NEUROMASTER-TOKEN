@@ -2,7 +2,7 @@
 
 <img src="https://github.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/blob/main/neuromaster-token.png" width=200 /> ![](images/k8s-dashboard.png)
 
-> - Not Re-issuable - Activate Sponsored Transactions - Waves Partnership
+> - Non Re-issuable - Activate Sponsored Transactions - Waves Partnership
 > - Supply 100,000,000 Million - Approximate Value ~ $1,300,000 USD
 
 - Harnessing NEURO [WAVES] Energy ❤️ Use for free waves trading and transaction fees
