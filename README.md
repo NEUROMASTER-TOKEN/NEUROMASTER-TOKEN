@@ -76,7 +76,7 @@ Product authenticity e.g. File Verification, Point of Sale, Fundraising  https:/
 
 - # Build consumer trust in a product, it is vital to provide the tools for verifying its authenticity
 
-NEUROMASTER® is a registered trademark
+NEUROMASTER® is a registered trademark slicer.fun/etnpx
 
 - Waves Wallet / Exchange = Our Referal Link https://waves.exchange?ref=3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 
