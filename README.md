@@ -22,7 +22,7 @@ Total Waves Traded 198446745475.6765 NEUROMASTER / WAVES  :  3nRvcGfvGmjmZZA1zNR
 
 - Direct Trading Link to current prices https://waves.exchange/trading/spot/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx2Kp5RF2jrTo_WAVES
 
-# Cystic Fibrosis 1,000,000 Token Donation Stake For Transfer 
+## Cystic Fibrosis 1,000,000 Token Donation Stake For Transfer 
 
 > To Address -  3PQgikhzj5RXdrChcddPDbRxagcAoYa7BhA
 - Description - 1 million Tokens - Donation to Cystic Fibrosis Foundation HELD for transfer to official wallet. 
@@ -45,7 +45,7 @@ Total Waves Traded 198446745475.6765 NEUROMASTER / WAVES  :  3nRvcGfvGmjmZZA1zNR
 
 ***
 
-# 7 Day Trade Breakdown
+## 7 Day Trade Breakdown
 
 > - 7DAYS https://github.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/blob/main/7DayTradeStats.txt
 
@@ -54,7 +54,7 @@ Waves (WAVES), a blockchain-based platform for developing enterprise-grade appli
 will be issuing an ERC-20 compliant token as part of its collaboration with the Ethereum (ETH) network
 
 ***
-# WAVES ENTERPRISE 
+## WAVES ENTERPRISE 
 > - Step Into the Future [NXT] Application Cases https://wavesenterprise.com/use-cases/category/all
 
 ***
@@ -84,9 +84,11 @@ NEUROMASTER® is a registered trademark
 
 
 
-# SEED & Password
+## SEED & Password
 > Before you create an account, you should know some important points about the Waves.Exchange wallet system. In Waves.Exchange wallet, there is no .dat file which keeps your private keys but a SEED which grants you access to them. The SEED is by default a string of 15 English words and basically your passphrase to your funds - if you lose your SEED, you lose access to your account. https://waves.exchange?ref=3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
-# HOW TO CLAIM? [NXR] TOKENS
+
+
+## HOW TO CLAIM? [NXR] TOKENS
 
 SUPER HASHTAG AIRDROPS ~Live Now 200 Per User - Currently 1348 Members.
 
@@ -135,8 +137,8 @@ An estimated annual yield can range from 8% to 15%, depending on market conditio
 
 NSBT/NEUROMASTER Utility token for the Neutrino system designed to ensure the stability of reserves on the Neutrino smart contract.
 
-# Anchoring
-- A reference data storage service that provides data security by publishing from a private blockchain to the mainnet.
+## Anchoring
+> - A reference data storage service that provides data security by publishing from a private blockchain to the mainnet.
 
 Interchain DeFi via Gravity (coming Very soon) 
 
@@ -177,21 +179,18 @@ Register Original Multimedia Files (EnCaSe) File Encryption
 
 ***
 
-
-# IsoChronic Music Sync APP IOS/ANDROID/DESKTOP (Play your favorite music with Direct IsoChronic BioHacking Sound Waves)
+## IsoChronic Music Sync APP IOS/ANDROID/DESKTOP (Play your favorite music with Direct IsoChronic BioHacking Sound Waves)
 
 - eNeuro Sounds BioHacking Development [IsoChronic] Technology Only on #AUDIUS Music protected by the Blockchain.
 
-#CryptoMusic Demo Sound File #NEUROMASTER © 2021 o! 🎶 
+##CryptoMusic Demo Sound File #NEUROMASTER © 2021 o! 🎶 
 
 # BASS Token - Audio Bridge Defi Swap - https://github.com/nxrtoken/BASS
 
-# [WARNING]
-  May Cause Overwhelming Feelings
+## [WARNING]
+ >  May Cause Overwhelming Feelings
   of Great pleasure and Happiness.
   
-  
-
 - Improve your long term memory.
 
 - Long Term Memory https://audius.co/neuromaster/neuromaster-ltm-isochronic-isolated-biohacking-sound-waves-218182
@@ -221,9 +220,7 @@ Free NXR Tokens https://wavesclaim.com/faucets/3nRvcGfvGmjmZZA1zNRB6pZsurc97g1zx
 
 https://raw.githubusercontent.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/main/nxr-token-neuromaster-150x150.jpeg
 
-
-
-# Buy, Trade or Stake NXR (NEUROMASTER) Tokens 
+## Buy, Trade or Stake NXR (NEUROMASTER) Tokens 
 
 Get a compatible wallet
 You will only need this compatible wallet to claim immediately https://waves.exchange.
@@ -250,7 +247,7 @@ You can claim multiple tokens on the Faucets page.
 
 ****
 
-# PROFIT STAKING ~17%
+## PROFIT STAKING ~17%
 
 EASY NEUROMASTER® STAKING Using Gatherer (Quick and Simple Method)
 
@@ -278,8 +275,10 @@ Current Staking Balance: 2443.109404100 Gatherer
 ****
 
 Claim Free Digital Asset Directly
-# NEUROMASTER® Faucet
-Direct pay cryptocurrency faucet
+
+## NEUROMASTER® Faucet
+
+> Direct pay cryptocurrency faucet
 https://t.me/neuromastertokens
 
 FREE [NXR] TOKEN FAUCET - > 2000 Tokens Available LIVE FAUCET
@@ -292,7 +291,7 @@ Blockchain Explorer https://wavesexplorer.com/assets/3nRvcGfvGmjmZZA1zNRB6pZsurc
 
 ***
 
-# Rules We Follow
+## Rules We Follow
 
 - We will not use the asset for fraudulent purposes;
 - We will not duplicate, fully or in part, the name of an existing cryptocurrency or a well-known company with the aim of misleading users;
@@ -306,7 +305,7 @@ Blockchain Explorer https://wavesexplorer.com/assets/3nRvcGfvGmjmZZA1zNRB6pZsurc
 ***
 
 
-# Sponsorship
+## Sponsorship
 
 - Currently we are sponsoring transaction fees (FREE TRANSFERS) A transaction fee is a fee that an account owner pays to send a transaction in the Waves blockchain.
 
@@ -314,7 +313,7 @@ Blockchain Explorer https://wavesexplorer.com/assets/3nRvcGfvGmjmZZA1zNRB6pZsurc
 ****
 
 
-# Supported funding model platforms
+## Supported funding model platforms
 
 * Waves Coin https://wavesexplorer.com/
 
@@ -358,7 +357,7 @@ Safe Private Social Sharing Tokens - Make Digital Money without changing anythin
 
 
 
-# Neutrino/Waves driving NXR 
+## Neutrino/Waves driving NXR 
 
 - https://neutrino.at/ Plug and play for algorithmic finance
 
@@ -378,7 +377,7 @@ Claim Once Per Address (Random Bonuses up to 25000 Tokens will be automated  Fau
 
 
 
-# NXR Referral System
+## NXR Referral System
 
 Your Referral URL: https://wavesclaim.com/?from=3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 
@@ -411,7 +410,7 @@ Youtube Waves Token Corporate Video https://youtu.be/3pjMueirxGU
 
 
 
-# CryptoMusic Token Development late 2021 [CRYPTOM] 
+## CryptoMusic Token Development late 2021 [CRYPTOM] 
 
 https://w8io.ru/3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH/f/7foKYxRo6UW1NqBhjrrHXRQ1Gx1sLrH7JkJowWWwqnHm
 
@@ -479,15 +478,13 @@ $ BTC/NEURON
 
 #TurtleNetwork
 
-$NEURON [NEURON
+$NEURON [NEURON] #NEURON
 
 ==============
 
-DEX Wallet and Trading
+## DEX Wallet and Trading
 
-***
-
-Waves.tech, an ecosystem of next-generation technologies built on the Waves protocol, has ported its native token WAVES into 
+> Waves.tech, an ecosystem of next-generation technologies built on the Waves protocol, has ported its native token WAVES into 
 Ethereum to enhance interoperability between the two networks and introduce Waves functionality to Ethereum users. 
 
 WAVES token holders will have access to numerous decentralized applications, exchanges, and DeFi protocols operating on the 
