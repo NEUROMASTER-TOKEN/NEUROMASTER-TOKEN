@@ -1,4 +1,4 @@
-# NEUROMASTER® TOKEN  ~> http://neuromaster.io
+# NEUROMASTER® TOKEN  ~> http://neuromaster.io neuromaster.eth
 
 <img src="https://github.com/NEUROMASTER-TOKEN/NEUROMASTER-TOKEN-website/blob/main/neuromaster-token.png" width=200 /> ![](images/k8s-dashboard.png)
 
@@ -16,7 +16,7 @@
 
 ***
 
-> - UPDATE - WAVES token has been ported to Ethereum [ETH] #unspoppable - neuromaster.crypto
+> - UPDATE - WAVES token has been ported to Ethereum [ETH] #unspoppable - neuromaster.eth
 
 > - Waves Exchange and Wallet https://waves.exchange?ref=3PKNyXRHnRE1V6MhE2HD4CCcBQcwxtfWpgH
 
